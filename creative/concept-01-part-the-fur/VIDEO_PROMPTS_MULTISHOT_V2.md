@@ -82,7 +82,7 @@ Plus the two science-dive frames for Block C (KF-G12 and KF-G12-SCI-END).
 | A5 | 8.4–10.2 | "Until I found this." |
 | A6 | 10.2–12.0 | "The Korean mist that stops the itch fast." |
 
-**Hook swaps:** replace the A1 paragraph with the matching alternate under "Block A hook variants" below. Everything else stays the same.
+**Hook swaps:** generate a standalone hook (see "Block A hook variants" below) and lay it over 0.0–3.2 of this block.
 
 ```
 SCENE CONTEXT
@@ -161,39 +161,181 @@ POSITIVE CONSTRAINTS
 Real smartphone footage texture in every shot, natural unretouched detail. One dog in every dog shot; one or two hands only. No subtitles, no on-screen text, no glow effects. The lesion never bleeds, glows or changes shape.
 ```
 
-### Block A hook variants (swap the A1 paragraph only)
+### Block A hook variants: standalone single-shot prompts
+Each hook is its own 4s single-shot generation. Cut it at 3.2s and lay it over 0.0–3.2 of Block A (replacing A1). Block A from 3.2s onward is unchanged, so one Block A generation serves every hook. Each prompt carries the same NARRATOR VOICE block, so the voice matches the rest of the ad.
 
-**H2 — 2 A.M.** (also change the first VOICEOVER line to `0:00.4 to 0:03.0 "If you know this sound at 2 a.m.…"`)
+### H1 — Part the fur (control)
+Refs: @WESTIE, @OWNER · first frame KF-G01 · **4s** (use 0.0–3.2 over Block A's A1; Block A continues from 3.2)
+🎙 VO: "Your dog keeps scratching the same spot? Part the fur."
 ```
-SHOT A1 — 0:00 to 0:03.2 — 2 A.M.
-First frame: an almost dark bedroom; a tired woman lifts her head off a white pillow, her face lit only from below by the cold glow of a phone screen, looking toward the foot of the bed at screen-right.
-Optics: 47° diagonal field of view, standard normal lens character, camera 1 meter away at pillow height.
-Camera: handheld, slight low-light micro-movement.
-Action: she squints at the phone, lifts her head and stares toward screen-right, then exhales, tired. From 0:00, an off-screen rhythmic collar-tag jingle and thumping are heard from screen-right.
-Light: phone-screen glow as the only key; faint blue moonlight stripes on the wall; heavy low-light noise.
-```
+SCENE CONTEXT
+A woman parts the white coat on her dog's left flank and reveals the irritated, flaky patch he keeps scratching.
 
-**H3 — Spray first** (first VOICEOVER line → `0:00.2 to 0:03.0 "This is Korean skincare… for itchy dogs."`)
-```
-SHOT A1 — 0:00 to 0:03.2 — SPRAY FIRST
-First frame: the same overhead close-up of the irritated patch on @WESTIE's left flank, @OWNER's left hand already spreading the fur, her right hand holding @ATOKONG 12 cm above the patch with the nozzle aimed down and the label turned away; a fine mist cloud is already leaving the nozzle.
-Optics: 29° diagonal field of view, close detail framing.
-Camera: handheld, slow push-in.
-Action: two more pumps; the colorless mist drifts down and settles on the fur and skin.
-Light: soft window daylight from screen-left; the mist is lit from the side.
-```
+ACTIVE REFERENCES
+@WESTIE: 5-year-old male West Highland White Terrier, compact 8 kg body, coarse white coat with creamy tips, brown leather collar with a small round brass tag, irritated patch on his left flank just forward of the left hip, rust-brown saliva staining on his right front paw. 100% matches the reference.
+@OWNER: early-30s woman seen only as hands and forearms, short unpolished nails, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
 
-**H6 — Not just a habit** (first VOICEOVER line → `0:00.2 to 0:03.0 "Constant paw licking isn't always just a habit."`)
-```
-SHOT A1 — 0:00 to 0:03.2 — PAW LICKING OPEN
-First frame: extreme close-up at rug level of @WESTIE licking between the toes of his right front paw, rust-brown staining on the white toe fur.
-Optics: 29° diagonal field of view, close detail framing, camera 50 cm away.
-Camera: handheld, slow push-in.
-Action: obsessive repetitive licking and one nibble; his eyes stay half closed.
-Light: soft window daylight from screen-left.
-```
-*(With H6, shorten A4 to a reaction close-up so the paw licking doesn't repeat.)*
+FIRST FRAME AND SPATIAL BLOCKING
+Matches the start image: overhead close-up of @WESTIE lying on his right side on a cream wool rug, left flank up; both @OWNER hands at the top of frame spreading the fur open in a V over the patch at frame center. The patch is about 6 cm wide with irregular edges, blotchy pink-to-red skin, fine scratch marks, dry white flakes at the hair roots, thinned broken fur; dry and matte, no blood. The first visible frame already contains the subject in position. No empty establishing frame, no delayed reveal.
 
+FORMAT MODE
+Single continuous take, 4 seconds. Real-time motion.
+
+OPTICS
+29° diagonal field of view, close detail framing, phone 35 cm above the coat. Patch razor-sharp, rug soft at the edges.
+
+CAMERA
+Handheld phone held from above: operator breath, micro-settling, slow push-in toward the patch.
+
+ACTION TIMING
+0:00 to 0:02 The fingers spread the fur 2 cm wider; stray hairs spring back.
+0:02 to 0:04 The skin twitches once under the fingers; the flank rises with one breath; the push-in continues.
+
+PHYSICS
+Coarse fur bends and springs back along its growth direction; skin moves slightly under finger pressure.
+
+LIGHTING
+Soft window daylight from screen-left; fingers cast a soft shadow at screen-right.
+
+AUDIO
+Soft fur rustle, the dog's breathing, one faint collar-tag jingle. No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.2 to 0:03.0 "Your dog keeps scratching the same spot? Part the fur."
+Voice sits clearly on top; foley ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Real smartphone footage texture, natural unretouched detail. No subtitles, no on-screen text, no glow effects. One dog, one or two hands only.
+```
+### H2 — 2 A.M.
+Refs: none (text-led) · optional first frame KF-H2 · **4s** (use 0.0–3.2 over Block A's A1; Block A continues from 3.2)
+🎙 VO: "Hear that at 2 a.m.? That's your dog's skin on fire."
+```
+SCENE CONTEXT
+In a near-dark bedroom at night, a tired woman lifts her head off the pillow, lit only by her phone, at the sound of her dog scratching again.
+
+FIRST FRAME AND SPATIAL BLOCKING
+A woman in her early 30s lies on a white pillow at frame center, her face lit from below by the cold glow of a phone in her hand; the rest of the room is dark; faint stripes of blue moonlight from blinds on the back wall. The first visible frame already contains the subject in position. No empty establishing frame, no delayed reveal.
+
+FORMAT MODE
+Single continuous take, 4 seconds. Real-time motion.
+
+OPTICS
+47° diagonal field of view, standard normal lens character, camera 1 meter away at pillow height. Natural proportions, no distortion.
+
+CAMERA
+Handheld, slight low-light micro-movement, fixed framing.
+
+ACTION TIMING
+0:00 to 0:01 She squints at the phone screen.
+0:01 to 0:03 She lifts her head off the pillow and turns her eyes toward the foot of the bed at screen-right.
+0:03 to 0:04 She exhales, exhausted, still staring toward screen-right.
+
+PHYSICS
+Hair and pillow move naturally with her head; the duvet shifts with her shoulder.
+
+LIGHTING
+The phone screen is the only key light; deep blue darkness elsewhere; heavy low-light noise. No fill light.
+
+AUDIO
+From 0:00, an off-screen rhythmic metallic collar-tag jingle and soft thumping from screen-right; her tired exhale at 0:03. No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.2 to 0:03.0 "Hear that at 2 a.m.? That's your dog's skin on fire."
+Voice sits clearly on top; foley ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Real smartphone footage texture, natural unretouched detail. No subtitles, no on-screen text, no glow effects. One dog, one or two hands only.
+```
+### H3 — Spray first
+Refs: @WESTIE, @OWNER, @ATOKONG · first frame KF-G11 · **4s** (use 0.0–3.2 over Block A's A1; Block A continues from 3.2)
+🎙 VO: "Watch what this Korean mist does to an itchy dog."
+```
+SCENE CONTEXT
+The owner holds her dog's fur open over the irritated patch and mists it with the Korean skin spray.
+
+ACTIVE REFERENCES
+@WESTIE: 5-year-old male West Highland White Terrier, compact 8 kg body, coarse white coat with creamy tips, brown leather collar with a small round brass tag, irritated patch on his left flank just forward of the left hip, rust-brown saliva staining on his right front paw. 100% matches the reference.
+@OWNER: early-30s woman seen only as hands and forearms, short unpolished nails, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
+@ATOKONG: small 30 ml white round spray bottle, about 10 cm tall, white pump nozzle, clear dome cap, orange cartoon-dog label. Shape, size and label design 100% match the reference.
+
+FIRST FRAME AND SPATIAL BLOCKING
+Matches the start image: overhead close-up of the irritated patch on @WESTIE's left flank at frame center; @OWNER's left hand spreading the fur from the top of frame; her right hand holding @ATOKONG 12 cm above the patch, nozzle aimed down, label turned away; a fine mist cloud already leaving the nozzle. The first visible frame already contains the subject in position. No empty establishing frame, no delayed reveal.
+
+FORMAT MODE
+Single continuous take, 4 seconds. Real-time motion.
+
+OPTICS
+29° diagonal field of view, close detail framing, camera 45 cm away. Patch, fingers and nozzle sharp.
+
+CAMERA
+Handheld, operator breath, slow push-in toward the patch.
+
+ACTION TIMING
+0:00 to 0:01 The first mist cloud drifts down over the patch.
+0:01 to 0:02 Second pump.
+0:02 to 0:04 Third pump; the colorless mist settles on the fur tips and pink skin; the dog stays relaxed and still.
+
+PHYSICS
+Each pump makes a short cone of fine droplets that slows with air resistance and falls with gravity. The index finger presses the pump with visible travel.
+
+LIGHTING
+Soft window daylight from screen-left; the mist is lit from the side.
+
+AUDIO
+Three crisp pump-mist sounds, "tss, tss, tss", one second apart. No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.2 to 0:03.0 "Watch what this Korean mist does to an itchy dog."
+Voice sits clearly on top; foley ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Real smartphone footage texture, natural unretouched detail. No subtitles, no on-screen text, no glow effects. One dog, one or two hands only.
+```
+### H6 — Not just a habit
+Refs: @WESTIE · first frame KF-G04 · **4s** (use 0.0–3.2 over Block A's A1; Block A continues from 3.2)
+🎙 VO: "Your dog licking his paws nonstop? It's not a habit."
+```
+SCENE CONTEXT
+At rug level, a small white terrier obsessively licks and nibbles between the toes of his stained front paw.
+
+ACTIVE REFERENCES
+@WESTIE: 5-year-old male West Highland White Terrier, compact 8 kg body, coarse white coat with creamy tips, brown leather collar with a small round brass tag, irritated patch on his left flank just forward of the left hip, rust-brown saliva staining on his right front paw. 100% matches the reference.
+
+FIRST FRAME AND SPATIAL BLOCKING
+Extreme close-up at rug level: @WESTIE's head lowered to his right front paw at frame center, tongue between the toes; rust-brown staining on the white toe fur, pink irritated skin between the toes. The first visible frame already contains the subject in position. No empty establishing frame, no delayed reveal.
+
+FORMAT MODE
+Single continuous take, 4 seconds. Real-time motion.
+
+OPTICS
+29° diagonal field of view, close detail framing, camera 50 cm away. Paw and tongue razor-sharp, background soft.
+
+CAMERA
+Handheld at floor level, slow push-in.
+
+ACTION TIMING
+0:00 to 0:02 Short repetitive licks between the toes, eyes half closed.
+0:02 to 0:03 A quick nibble at the base of the toes, pulling the paw slightly.
+0:03 to 0:04 Back to licking, faster.
+
+PHYSICS
+A wet, flexible tongue leaves the toe fur damp and clumped; the paw shifts with each pull; the head moves with real weight.
+
+LIGHTING
+Soft window daylight from screen-left.
+
+AUDIO
+Wet licking and nibbling sounds, quiet room tone. No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.2 to 0:03.0 "Your dog licking his paws nonstop? It's not a habit."
+Voice sits clearly on top; foley ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Real smartphone footage texture, natural unretouched detail. No subtitles, no on-screen text, no glow effects. One dog, one or two hands only.
+```
+*With H6, shorten A4 in Block A to a reaction close-up (or reuse A4 as is) so the paw licking doesn't repeat back to back.*
 ---
 
 ## BLOCK B — Authority + Demo (12.0–24.0)
