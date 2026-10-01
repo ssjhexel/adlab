@@ -325,6 +325,44 @@ The vet's face never appears. Exactly two gloved hands. Realistic working veteri
 
 ---
 
+### G07B — Korean vet-researcher b-roll ⭐ (S08b, hook H7)
+First frame: **KF-G07B** · No @tags · 5s
+```
+SCENE CONTEXT
+In a bright Seoul research lab, a Korean veterinary researcher looks up from her microscope and lifts a small glass vial of pale amber formula to the window light to examine it.
+
+FIRST FRAME AND SPATIAL BLOCKING
+The first visible frame matches the start image: the researcher seated at a white bench in the center-right of frame at a three-quarter angle facing screen-left, eyes just lifting from the microscope eyepieces; a rack of glass vials on the bench at screen-left; a window at screen-left. One colleague softly out of focus in the background. No empty frame.
+
+FORMAT MODE
+Single continuous take.
+
+OPTICS
+29° diagonal field of view, short telephoto portrait character, camera 2 meters away at seated eye level. Her face and hands razor-sharp, the lab background compressed into soft bokeh, natural flattering face proportions.
+
+CAMERA
+Handheld documentary style: operator breath, micro-settling, a very slow drift toward her.
+
+ACTION TIMING
+0:00 to 0:02 She sits back from the microscope, adjusts her reading glasses with her left hand, focused expression.
+0:02 to 0:04 She picks a small clear vial of pale amber liquid from the rack with her right hand and raises it to eye level toward the window light.
+0:04 to 0:05 She tilts the vial slightly and studies it; the liquid moves inside. Her eyes stay on the vial.
+
+PHYSICS
+Real hand and arm weight, the lab coat folds and creases with her movement, the liquid in the vial shifts with the tilt and settles.
+
+LIGHTING
+Soft daylight from the window at screen-left as the key, gentle shadow on the screen-right side of her face, the amber vial lit through by the window. Clean neutral lab light in the background. No beauty fill.
+
+AUDIO
+Quiet lab ambience, a soft clink of glass. No music. No voice.
+
+POSITIVE CONSTRAINTS
+One person in focus, natural unretouched skin texture, real documentary feel. She does not look at the camera. No text, no screens with graphics.
+```
+
+---
+
 ### G08 — Lab pipette (S09, hook H7)
 First frame: **KF-G08** · No @tags · 5s
 ```
@@ -665,15 +703,15 @@ The dog does not scratch, lick or move away. Calm, slow, real behavior. One dog,
 
 ---
 
-### G15 — Transformation series: DAY 1 / 5 / 12 / 21 (S16–S19, hook H5)
-First frames: **KF-G15-D1, -D5, -D12, -D21** · Refs: @WESTIE, @OWNER · **3s each**
+### G15 — Transformation series: BEFORE / DAY 1 / 3 / 5 (S16–S19, hook H5)
+First frames: **KF-G15-D0, -D1, -D3, -D5** · Refs: @WESTIE, @OWNER · **3s each**
 Run the same prompt four times, once per start frame, swapping only the bracketed `[SKIN STATE]` line. The motion is deliberately minimal, so the cut between days carries the change.
 
 `[SKIN STATE]` per day:
-- **D1:** the exposed patch is blotchy pink-to-red with fine scratch marks, dry white flakes at the hair roots and thin broken fur.
-- **D5:** the exposed patch is soft even pink with faint healing scratch marks and only a few small flakes; the fur over it is still thin.
-- **D12:** the exposed skin is calm pale pink with no flakes, and short new white fuzz is growing evenly across the patch.
-- **D21:** the area is covered by healthy white fur, slightly shorter than the surrounding coat; the skin visible where the fingers part the fur is calm and pale.
+- **D0 (BEFORE):** the exposed patch is blotchy pink-to-red with fine scratch marks, dry white flakes at the hair roots and thin broken fur.
+- **D1:** the exposed patch is a shade calmer: the darkest red center has softened to red-pink, with slightly fewer flakes and faint scratch marks.
+- **D3:** the exposed patch is soft even pink with faded scratch marks and almost no flakes; the fur over it is still thin.
+- **D5:** the exposed skin is calm pale pink close to normal skin tone with no flakes; the fur over it is short with a faint first layer of fine new fuzz.
 
 ```
 SCENE CONTEXT
@@ -714,8 +752,8 @@ The skin condition stays exactly as described for the whole clip: no change, no 
 
 ---
 
-### G16 — Paw progress, DAY 1 and DAY 21 (S20)
-First frames: **KF-G16-D1** and **KF-G16-D21** · Refs: @WESTIE, @OWNER · 3s each · Stack top/bottom in the edit.
+### G16 — Paw progress, BEFORE and DAY 5 (S20)
+First frames: **KF-G16-D1** and **KF-G16-D5** · Refs: @WESTIE, @OWNER · 3s each · Stack top/bottom in the edit.
 ```
 SCENE CONTEXT
 Close-up of a small white terrier's front paw resting in his owner's palm while her thumb gently spreads his toes to show the skin between them.

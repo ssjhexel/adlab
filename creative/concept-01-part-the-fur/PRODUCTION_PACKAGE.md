@@ -41,7 +41,7 @@ The owner's pain is helplessness plus sleeplessness. The pet's pain is the itch-
 | Competitor pattern (see analysis) | How we use it | How we beat it |
 |---|---|---|
 | Lesion + hand in frame 0 (P1, P2) | Frame 0 = fingers already parting fur over the patch | Lesion art-directed to look *clinically real* (irregular, blotchy, flaky, saliva-stained), not a glowing red disc |
-| "Part the fur" ritual (P4) | Our hook and our visual through-line: the same gesture opens the ad and reveals every transformation day | Turned into a *repeatable proof device*: same hands, same spot, same framing on Day 1 / 5 / 12 / 21 |
+| "Part the fur" ritual (P4) | Our hook and our visual through-line: the same gesture opens the ad and reveals every transformation day | Turned into a *repeatable proof device*: same hands, same spot, same framing on Before / Day 1 / Day 3 / Day 5 |
 | Instant healing in seconds (P5) | Instant *behavioral* relief: he stops scratching and lies down | Skin and coat improvement shown **over days** with counters, which is believable and on-brief ("rapid itch relief, visible improvement over continued use") |
 | CG mechanism (rings, frost, cartoon cells) (P6) | Replaced by authority shots: vet exam, lab, botanicals | Photographic, not CG. This removes the competitor's most "AI-looking" footage |
 | Behavior reframe (P7) | Folded into the itch-scratch cycle beat | Uses the brand's own angle #2 |
@@ -110,23 +110,23 @@ The competitor ads look AI-made mainly in their CG devices and their too-perfect
 | 2 | 3.2–5.0 | This kept him up all night. | |
 | 3 | 5.0–8.4 | Every scratch made the itch worse… and round it went. | **[THE ITCH–SCRATCH CYCLE]** |
 | 4 | 8.4–12.0 | So I stopped guessing… and tried Korean pet dermatology. | **[ATOKONG · KOREAN PET DERMATOLOGY]** (from 10.2) |
-| 5 | 12.0–16.6 | Created by a vet with twenty-plus years in clinic… and a thirty-year immune-cell researcher. | **[VET · 20+ YEARS IN CLINIC]** → **[30 YEARS IMMUNE-CELL RESEARCH]** |
-| 6 | 16.6–18.0 | With Korean medicinal botanicals. | **[Daphne kiusiana · Daphne genkwa]** |
-| 7 | 18.0–19.8 | No steroids. No fragrance. Lick-safe. | **[NON-STEROIDAL · FRAGRANCE-FREE · LICK-SAFE]** |
-| 8 | 19.8–22.4 | Three to five sprays on dry skin. | **[3–5 SPRAYS]** |
-| 9 | 22.4–25.2 | Korean botanicals get to work, soothing the skin and supporting its natural barrier. | **[KOREAN BOTANICAL FORMULA]** + small: *Visualization* |
-| 10 | 25.2–26.6 | No bath. No rinse. Nothing to rub in. | |
-| 11 | 25.8–29.4 | And for the first time in weeks… he just lay down. | |
-| 12 | 29.4–35.0 | Day after day, the redness calmed… the flaking eased… and his coat filled back in. | **[DAY 1] [DAY 5] [DAY 12] [DAY 21]** + small: *Dramatization. Individual results may vary.* |
-| 13 | 35.0–36.6 | Even his paws. | **[DAY 1 / DAY 21]** |
-| 14 | 36.6–38.4 | Less scratching. Less licking. | |
-| 15 | 38.4–40.2 | More sleep — for both of us. | |
-| 16 | 40.2–41.8 | And it's made for cats, too. | **[FOR DOGS & CATS]** |
-| 17 | 41.8–47.0 | Atokong. Scratch less, lick less, live more. `[OFFER LINE, e.g. "Buy two, get one free."]` Tap below. | End card: logo · **Stop Scratching.** · `[OFFER]` · **Free shipping** `[if applicable]` · **Shop Now ↓** |
+| 5 | 12.0–17.8 | Created in Korea by a vet with twenty-plus years in clinic… and a thirty-year immune-cell researcher. | **[VET · 20+ YEARS IN CLINIC]** → **[30 YEARS IMMUNE-CELL RESEARCH]** → **[REGISTERED VETERINARY QUASI-DRUG · KOREA]** |
+| 6 | 17.8–19.2 | With Korean medicinal botanicals. | **[Daphne kiusiana · Daphne genkwa]** |
+| 7 | 19.2–21.0 | No steroids. No fragrance. Lick-safe. | **[NON-STEROIDAL · FRAGRANCE-FREE · LICK-SAFE]** |
+| 8 | 21.0–23.6 | Three to five sprays on dry skin. | **[3–5 SPRAYS]** |
+| 9 | 23.6–26.4 | Korean botanicals get to work, soothing the skin and supporting its natural barrier. | **[KOREAN BOTANICAL FORMULA]** + small: *Visualization* |
+| 10 | 26.4–27.8 | No bath. No rinse. Nothing to rub in. | |
+| 11 | 27.8–31.0 | From the very first spray… he stopped scratching and just lay down. | |
+| 12 | 31.0–36.2 | By day three, the redness had calmed… by day five, his skin looked like his again. | **[BEFORE] [DAY 1] [DAY 3] [DAY 5]** + small: *Dramatization. Individual results may vary.* |
+| 13 | 36.2–37.8 | Even his paws. | **[BEFORE / DAY 5]** |
+| 14 | 37.8–39.6 | Less scratching. Less licking. | |
+| 15 | 39.6–41.4 | More sleep — for both of us. | |
+| 16 | 41.4–43.0 | And it's made for cats, too. | **[FOR DOGS & CATS]** |
+| 17 | 43.0–48.2 | Atokong. Scratch less, lick less, live more. `[OFFER LINE, e.g. "Buy two, get one free."]` Tap below. | End card: logo · **Stop Scratching.** · `[OFFER]` · **Free shipping** `[if applicable]` · **Shop Now ↓** |
 
-Word count ≈ 134 (+ offer) over 47s, about 170 wpm.
+Word count ≈ 142 (+ offer) over 48s, about 170 wpm.
 
-**Claims check.** Every VO line maps to the brief. "He just lay down" is a dramatized behavioral moment supporting "rapid itch relief". "Coat filled back in" depends on brief item 3.3 sign-off; if not approved, use "…and his coat looked healthier again."
+**Claims check.** Every VO line maps to the brief. "He just lay down" is a dramatized behavioral moment supporting "rapid itch relief". Instant relief from the first spray is client-confirmed (customers report it). The 5-day sequence shows calmer skin, not full fur regrowth. Visible regrowth takes weeks, and showing a full coat at day 5 would look fake and overclaim.
 
 ---
 
@@ -143,31 +143,34 @@ Word count ≈ 134 (+ offer) over 47s, about 170 wpm.
 | **S05** | 6.6–8.4 (1.8) | Day, living room rug: the Westie licks and nibbles between the toes of his right front paw. Rust-brown saliva staining on white toe fur | Low, handheld at rug level, 1 m | "…and round it went." · SFX: wet licking | G04 | AI |
 | **S06** | 8.4–10.2 (1.8) | Owner's hand lifts the ATOKONG bottle off a sunlit white shelf with a small trailing plant | Handheld, chest height | "So I stopped guessing…" | G05 | **REAL** (or COMP) |
 | **S07** | 10.2–12.0 (1.8) | On the rug, the owner holds the bottle toward the Westie at nose height. He sniffs it, ears forward. Label faces camera | Handheld, low 3/4 | "…and tried Korean pet dermatology." | G06 | COMP (real bottle) |
-| **S08** | 12.0–14.4 (2.4) | Vet clinic exam table: a veterinarian's gloved hands (navy scrub sleeves, no face) part a white dog's fur under a round magnifier lamp to inspect the skin | Handheld over-shoulder, medium close | "Created by a vet with twenty-plus years in clinic…" | G07 | AI |
-| **S09** | 14.4–16.6 (2.2) | Lab bench: a gloved hand pipettes one drop of pale amber botanical extract into a small glass vial. A rack of vials and a microscope are soft in the background | Macro, locked, shallow focus | "…and a thirty-year immune-cell researcher." · SFX: soft lab hum, drip | G08 | AI |
-| **S10** | 16.6–18.0 (1.4) | Macro: dense clusters of small white, four-lobed tubular *Daphne kiusiana* flowers among glossy dark-green leaves, morning dew, soft forest light | Macro, slight breeze sway | "With Korean medicinal botanicals." | G09 | AI (or stock) |
-| **S11** | 18.0–19.8 (1.8) | Backlit: the owner sprays the mist onto her open palm. The fine cloud catches window light, droplets bead on skin. Clean, colorless | Handheld, side-backlit | "No steroids. No fragrance." · SFX: single *tss* | G10 | **REAL** (or AI) |
-| **S12** | 19.8–22.4 (2.6) | **Demo:** the same flank. Left hand parts the fur over the patch; the right hand sprays 3 pumps from ~12 cm. The mist cloud drifts down onto the skin | Handheld close-up, 3/4 above | "Three to five sprays on dry skin." · SFX: *tss-tss-tss* (mix hot) | G11 | AI |
+| **S08** | 12.0–14.0 (2.0) | Vet clinic exam table: a veterinarian's gloved hands (navy scrub sleeves, no face) part a white dog's fur under a round magnifier lamp to inspect the skin | Handheld over-shoulder, medium close | "Created in Korea by a vet with twenty-plus years in clinic…" | G07 | AI |
+| **S08b** ⭐ | 14.0–16.0 (2.0) | **Korean vet-researcher b-roll:** a Korean veterinary researcher in her 50s, white lab coat over navy scrubs, hair tied back, reading glasses, in a bright Seoul research lab. She looks up from a microscope, then turns to examine a small glass vial of the formula against the window light. Calm, expert, real | 29° portrait, handheld, slow drift | "…and a thirty-year immune-cell researcher." (VO continues) · SFX: lab hum | G07B | AI (or **REAL**: film the actual vet/researcher if available) |
+| **S09** | 16.0–17.8 (1.8) | Lab bench: a gloved hand pipettes one drop of pale amber botanical extract into a small glass vial. A rack of vials and a microscope are soft in the background | Macro, locked, shallow focus | (VO tail) · Super: **REGISTERED VETERINARY QUASI-DRUG · KOREA**, + 0.8s certificate insert (§6.2) · SFX: soft lab hum, drip | G08 | AI |
+| **S10** | 17.8–19.2 (1.4) | Macro: dense clusters of small white, four-lobed tubular *Daphne kiusiana* flowers among glossy dark-green leaves, morning dew, soft forest light | Macro, slight breeze sway | "With Korean medicinal botanicals." | G09 | AI (or stock) |
+| **S11** | 19.2–21.0 (1.8) | Backlit: the owner sprays the mist onto her open palm. The fine cloud catches window light, droplets bead on skin. Clean, colorless | Handheld, side-backlit | "No steroids. No fragrance." · SFX: single *tss* | G10 | **REAL** (or AI) |
+| **S12** | 21.0–23.6 (2.6) | **Demo:** the same flank. Left hand parts the fur over the patch; the right hand sprays 3 pumps from ~12 cm. The mist cloud drifts down onto the skin | Handheld close-up, 3/4 above | "Three to five sprays on dry skin." · SFX: *tss-tss-tss* (mix hot) | G11 | AI |
 | **S13b** *(optional insert)* | — | 0.8s: the Westie licks his freshly misted paw, no reaction; owner relaxed. Super: **LICK-SAFE** | Low macro | supports VO 7 | G04 variant | AI |
-| **S13** ⭐ | 22.4–25.2 (2.8) | **MACRO SCIENCE DIVE:** starts on fine droplets settling on the pink skin, then the camera pushes *through* the surface into a photoreal microscopy-style cross-section of the skin layers. The droplets' clear liquid seeps into the gaps between the irritated, slightly lifted surface cells; the cell layer flattens and closes up and the deep red tone cools to a calm pale pink. Looks like a real lab microscope / documentary micro-photography, not a CG cartoon | Macro, locked | "No bath. No rinse." | G12 (first frame) → G12-SCI (first+last frame) | AI |
-| **S14** | 25.2–26.6 (1.4) | Owner sets the bottle down on the rug. The Westie stands, gives a short full-body shake and trots two steps toward the sunny window | Low handheld, 1.2 m | "Nothing to rub in." · SFX: shake, tag jingle | G13 | AI |
-| **S15** | 25.8–29.4 (3.6) | **Relief beat:** in a patch of sun on the rug, the Westie lies down, exhales a long sigh (chest falls, nostrils flare), lowers his chin onto his front paws, and his eyes slowly close. Owner's hand strokes his back once | Low static at rug level, 1.5 m, long-lens feel | "And for the first time in weeks… he just lay down." · SFX: long dog sigh, room tone | G14 | AI |
-| **S16** | 29.4–30.6 (1.2) | **DAY 1:** exact S01 framing. Fingers part the fur; the patch is raw | Locked, matches S01 | "Day after day…" · SFX: soft camera-shutter tick on each day change | G15-D1 | AI |
-| **S17** | 30.6–31.8 (1.2) | **DAY 5:** same framing. Redness softened to pink, scratch lines faded, fewer flakes | Locked | "…the redness calmed…" | G15-D5 | AI |
-| **S18** | 31.8–33.0 (1.2) | **DAY 12:** same framing. Pale pink skin, no flakes, short new white fuzz across the patch | Locked | "…the flaking eased…" | G15-D12 | AI |
-| **S19** | 33.0–35.0 (2.0) | **DAY 21:** same framing. The fingers part a full white coat (slightly shorter, softer fur over the old patch), revealing calm pale skin | Locked | "…and his coat filled back in." | G15-D21 | AI |
-| **S20** | 35.0–36.6 (1.6) | Split screen, top/bottom: right front paw held in the owner's palm. **DAY 1** rust-stained toes and pink webbing; **DAY 21** clean white toes, calm skin | Locked macro ×2 | "Even his paws." | G16 | AI |
-| **S21** | 36.6–38.4 (1.8) | Morning garden: the Westie sprints toward camera across the lawn, ears up, tongue out, collar tag bouncing | Telephoto feel, low, tracking slightly | "Less scratching. Less licking." · SFX: paws on grass, jingle | G17 | AI |
-| **S22** | 38.4–40.2 (1.8) | Night bedroom (same as S03): the Westie asleep, curled on his bed, chest slowly rising. The owner asleep in soft background. Still | Static, same position as S03 | "More sleep — for both of us." · SFX: quiet breathing, distant clock | G18 | AI |
-| **S23** | 40.2–41.8 (1.6) | Sofa: grey British Shorthair cat. The owner's hand parts the fur at the side of the neck and sprays once from 15 cm, away from the face. The cat slow-blinks | Handheld close, eye level | "And it's made for cats, too." · SFX: *tss*, purr | G19 | AI |
-| **S24** | 41.8–47.0 (5.2) | **End:** the healed Westie sits on the white duvet in morning light, the ATOKONG bottle upright in the foreground, the cat lounging behind. At 43.0 the end card animates in over the top: logo, "Stop Scratching.", `[OFFER]`, Shop Now ↓ | Static, eye level with the dog | "Atokong. Scratch less, lick less, live more. [Offer.] Tap below." · Music swell, final *tss* | G20 | COMP |
+| **S13** ⭐ | 23.6–26.4 (2.8) | **MACRO SCIENCE DIVE:** starts on fine droplets settling on the pink skin, then the camera pushes *through* the surface into a photoreal microscopy-style cross-section of the skin layers. The droplets' clear liquid seeps into the gaps between the irritated, slightly lifted surface cells; the cell layer flattens and closes up and the deep red tone cools to a calm pale pink. Looks like a real lab microscope / documentary micro-photography, not a CG cartoon | Macro push-in | "Korean botanicals get to work, soothing the skin and supporting its natural barrier." · Super: *Visualization* | G12 (first frame) → G12-SCI (first+last frame) | AI |
+| **S14** | 26.4–27.8 (1.4) | Owner sets the bottle down on the rug. The Westie stands, gives a short full-body shake and trots two steps toward the sunny window | Low handheld, 1.2 m | "No bath. No rinse. Nothing to rub in." · SFX: shake, tag jingle | G13 | AI |
+| **S15** | 27.8–31.0 (3.2) | **Relief beat, minutes after the first spray:** in a patch of sun on the rug, the Westie lies down, exhales a long sigh (chest falls, nostrils flare), lowers his chin onto his front paws, and his eyes slowly close. Owner's hand strokes his back once | Low static at rug level, 1.5 m, long-lens feel | "From the very first spray… he stopped scratching and just lay down." · SFX: long dog sigh, room tone | G14 | AI |
+| **S16** | 31.0–32.0 (1.0) | **BEFORE:** exact S01 framing. Fingers part the fur; the patch is raw | Locked, matches S01 | "By day three…" · SFX: soft camera-shutter tick on each day change | G15-D0 | AI |
+| **S17** | 32.0–33.2 (1.2) | **DAY 1** (after first sprays): same framing. Redness already a shade softer, the angry dark-red center gone, flakes reduced | Locked | "…the redness had calmed…" | G15-D1 | AI |
+| **S18** | 33.2–34.4 (1.2) | **DAY 3:** same framing. Soft even pink, scratch lines faded, almost no flakes | Locked | "…by day five…" | G15-D3 | AI |
+| **S19** | 34.4–36.2 (1.8) | **DAY 5:** same framing. Calm pale-pink skin close to normal, no flakes, staining gone; the surrounding fur lies clean and flat over the edges and a faint new fuzz is just starting | Locked | "…his skin looked like his again." | G15-D5 | AI |
+| **S20** | 36.2–37.8 (1.6) | Split screen, top/bottom: right front paw held in the owner's palm. **BEFORE** rust-stained toes and pink webbing; **DAY 5** calm skin, staining fading | Locked macro ×2 | "Even his paws." | G16 | AI |
+| **S21** | 37.8–39.6 (1.8) | Morning garden: the Westie sprints toward camera across the lawn, ears up, tongue out, collar tag bouncing | Telephoto feel, low, tracking slightly | "Less scratching. Less licking." · SFX: paws on grass, jingle | G17 | AI |
+| **S22** | 39.6–41.4 (1.8) | Night bedroom (same as S03): the Westie asleep, curled on his bed, chest slowly rising. The owner asleep in soft background. Still | Static, same position as S03 | "More sleep — for both of us." · SFX: quiet breathing, distant clock | G18 | AI |
+| **S23** | 41.4–43.0 (1.6) | Sofa: grey British Shorthair cat. The owner's hand parts the fur at the side of the neck and sprays once from 15 cm, away from the face. The cat slow-blinks | Handheld close, eye level | "And it's made for cats, too." · SFX: *tss*, purr | G19 | AI |
+| **S24** | 43.0–48.2 (5.2) | **End:** the healed Westie sits on the white duvet in morning light, the ATOKONG bottle upright in the foreground, the cat lounging behind. At 44.2 the end card animates in over the top: logo, "Stop Scratching.", `[OFFER]`, Shop Now ↓ | Static, eye level with the dog | "Atokong. Scratch less, lick less, live more. [Offer.] Tap below." · Music swell, final *tss* | G20 | COMP |
 
 **Continuity.** The patch is always on the **left flank, just forward of the left hip**. The paw is always the **right front**. The owner's ring is always on the **right hand**. The window is always **camera-left** in the living room.
 
 ---
 
-### 6.1 Timing note
-Adding the science dive makes S13 1.0s longer, so S14 ends at 26.6. **Everything from S15 onward moves +0.8s** (S15 = 26.6–30.2 … end card to 47.8s). Either accept the 47.8s cut or trim S15 to 2.8s to keep 47.0s.
+### 6.1 Timing
+The Korean vet-researcher b-roll (S08b) and the shorter 5-day sequence are folded into the timeline above. **Total: 48.2s.** To land at 45s, cut S11 (mist on palm) and trim S15 to 2.8s.
+
+**Using an AI person as "the researcher":** S08b is a dramatized, unnamed figure. Don't caption her with the real founders' names or imply she is them; add *Dramatization*. If the real vet or researcher can be filmed for 10 minutes on a phone, use that instead. Real experts beat any AI shot.
 
 ### 6.2 Korean registration / certification on screen (post-production)
 Yes, use it. The competitor set has no third-party proof at all, so this is a real advantage. Put it on screen in three places:
@@ -222,11 +225,11 @@ Each hook replaces **0.0–3.2s** (S01–S02 and VO line 1). From S03 onward the
 - **Gen:** G-H4 (REAL recommended).
 - **Tests:** the Korean-origin halo as a pure curiosity hook. Likely strongest with women 25–45 who already buy K-beauty.
 
-### H5 — "Same Spot, 21 Days"
-- **Visual:** split screen top/bottom. **DAY 1** (S16 frame) above, **DAY 21** (S19 frame) below. Fingers part the fur in both halves simultaneously.
-- **VO:** "Same spot. Twenty-one days apart."
-- **Super:** DAY 1 / DAY 21 · *Dramatization*
-- **Gen:** G15-D1 + G15-D21.
+### H5 — "Same Spot, 5 Days"
+- **Visual:** split screen top/bottom. **BEFORE** (S16 frame) above, **DAY 5** (S19 frame) below. Fingers part the fur in both halves simultaneously.
+- **VO:** "Same spot. Five days apart."
+- **Super:** BEFORE / DAY 5 · *Dramatization*
+- **Gen:** G15-D0 + G15-D5.
 - **Tests:** H3, proof-first. **Requires the timeline sign-off in brief item 3.2.**
 
 ### H6 — "Not a Bad Habit"
@@ -303,7 +306,7 @@ Each hook replaces **0.0–3.2s** (S01–S02 and VO line 1). From S03 onward the
 ## 11. Production order (recommended)
 
 1. **References:** generate `@WESTIE`, `@OWNER` hands, `@LIVINGROOM`, `@BEDROOM` and `@CAT` reference images (IMAGE_PROMPTS §A). Get the product packshots from the client (`@ATOKONG`).
-2. **Day 1 master frame (KF-01).** Lock this before anything else; Days 5/12/21 are edits of it.
+2. **Day 1 master frame (KF-01).** Lock this before anything else; Day 1/3/5 are edits of it.
 3. **Keyframes** for every Gen ID (IMAGE_PROMPTS §B), then the transformation states (§C).
 4. **Video** from each keyframe (VIDEO_PROMPTS). Generate 3–4 takes per shot and pick the most physically convincing.
 5. **Real shoot:** S06, S11, S24 bottle plate, H4 shelf.

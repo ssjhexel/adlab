@@ -68,7 +68,7 @@ A 4-year-old grey British Shorthair cat with dense plush blue-grey coat, round c
 
 ## §B — Keyframes (first frame of each video generation)
 
-### KF-G01 — HOOK / DAY 1 MASTER FRAME ⭐ (also KF-G15-D1)
+### KF-G01 — HOOK / BEFORE MASTER FRAME ⭐ (also KF-G15-D0)
 **Most important image in the project.** Lock it before anything else.
 Refs: REF-WESTIE-1, REF-OWNER
 ```
@@ -125,6 +125,12 @@ Veterinary clinic exam room. A white West Highland White Terrier stands calmly o
 ```
 + REALISM SUFFIX
 
+### KF-G07B — Korean vet-researcher b-roll ⭐
+```
+Bright modern veterinary research lab in Seoul, large window with soft daylight camera-left. A Korean veterinary researcher in her early 50s, black hair tied back with a few grey strands, thin reading glasses, white lab coat over navy scrubs, sits at a laboratory microscope at a clean white bench, just lifting her eyes from the eyepieces with a calm, focused expression. On the bench: a rack of small amber and clear glass vials, a notebook with handwritten notes, a small potted Korean daphne sprig. Background softly out of focus: lab shelving and a second colleague in a lab coat. Camera at seated eye level, 2 meters away, three-quarter angle. Natural skin texture with pores, fine lines and no retouching.
+```
++ REALISM SUFFIX (replace "pet owner" with "videographer")
+
 ### KF-G08 — Lab pipette
 ```
 Laboratory bench macro. A gloved hand holds a glass dropper pipette above a small clear glass vial, one drop of pale amber botanical extract hanging from the tip. In the soft background: a rack of small amber and clear glass vials, a laboratory microscope, a notebook. Clean white bench, cool-neutral daylight from a window behind, shallow focus on the drop. Real scientific laboratory, not futuristic, no screens with glowing graphics.
@@ -150,7 +156,7 @@ Side-backlit close-up of a woman's open left palm facing up near a bright window
 ### KF-G11 — Spray demo (also hook H3)
 Refs: KF-G01, REF-OWNER, @ATOKONG
 ```
-Same framing and lighting as KF-G01: overhead close-up of the white Westie's left flank on the cream rug with the irritated Day 1 patch exposed. The woman's left hand spreads the fur open around the patch; her right hand enters from the upper right holding a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label angled down toward the patch from about 12 cm away, nozzle pointing at the skin, index finger on the pump. The bottle label is turned away from camera.
+Same framing and lighting as KF-G01: overhead close-up of the white Westie's left flank on the cream rug with the irritated BEFORE patch exposed. The woman's left hand spreads the fur open around the patch; her right hand enters from the upper right holding a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label angled down toward the patch from about 12 cm away, nozzle pointing at the skin, index finger on the pump. The bottle label is turned away from camera.
 ```
 + REALISM SUFFIX
 
@@ -193,7 +199,7 @@ Refs: REF-WESTIE-1, REF-OWNER
 ```
 Close-up of a white West Highland White Terrier's right front paw resting in a woman's open right palm (gold band visible), toes slightly spread by her thumb. The white fur between and on top of the toes is stained rust-brown from licking, the skin between the toes is pink and irritated, slightly swollen, with a few broken hairs. Dry, no wound. Soft daylight from the left, cream rug background.
 ```
-**D21:** *edit of D1* — see §C.
+**D5:** *edit of D1*; see §C.
 
 ### KF-G17 — Garden zoomies
 Refs: REF-WESTIE-1
@@ -243,28 +249,29 @@ Close-up of a clean white bathroom shelf with an arrangement of minimalist unbra
 
 Use an **image-edit model** (e.g. Nano Banana / Seedream edit) with **KF-G01 as the input image**. Run each edit from KF-G01 itself, not from the previous day's image, so error doesn't accumulate. Then check that framing, hands, ring, lighting, rug and fur direction are identical.
 
-### KF-G15-D1
+### KF-G15-D0 (BEFORE)
 = **KF-G01** unchanged.
 
-### KF-G15-D5 (edit of KF-G01)
+### KF-G15-D1 (edit of KF-G01): after the first sprays
+```
+Edit this image. Keep everything identical: camera position, framing, the woman's hands and finger positions, the gold ring, knit sleeves, rug, lighting, fur direction and the dog. Change ONLY the exposed skin patch: it is already a shade calmer. The darkest red center has softened to red-pink, the edges are less angry, there are slightly fewer flakes, and the scratch marks are still faintly visible. Dry, matte skin. Subtle change only.
+```
+
+### KF-G15-D3 (edit of KF-G01)
 ```
 Edit this image. Keep everything identical — camera position, framing, the woman's hands and finger positions, the gold ring, knit sleeves, rug, lighting, fur direction and the dog. Change ONLY the exposed skin patch: the inflammation is now noticeably calmer — soft even pink instead of red, the darker red center is gone, the scratch marks are faint and almost healed, only a few small white flakes remain, the rust-brown staining on the surrounding fur is lighter. The fur over the patch is still thin and short. Dry, matte skin.
 ```
 
-### KF-G15-D12 (edit of KF-G01)
+### KF-G15-D5 (edit of KF-G01)
 ```
-Edit this image. Keep everything identical — camera position, framing, the woman's hands and finger positions, the gold ring, knit sleeves, rug, lighting, fur direction and the dog. Change ONLY the exposed skin patch: the skin is now a calm pale pink close to normal skin tone, no redness, no scratch marks, no flakes. A layer of new short white fuzz about 2–3 mm long is emerging evenly across the patch. The surrounding fur is clean white with no staining.
+Edit this image. Keep everything identical — camera position, framing, the woman's hands and finger positions, the gold ring, knit sleeves, rug, lighting, fur direction and the dog. Change ONLY the exposed skin patch: the skin is now a calm pale pink close to normal skin tone, no redness, no scratch marks, no flakes. The fur over the patch is still short, with a faint first layer of very fine new white fuzz just starting. The surrounding fur is clean white with no staining.
 ```
 
-### KF-G15-D21 (edit of KF-G01)
-```
-Edit this image. Keep everything identical — camera position, framing, the woman's hands and finger positions, the gold ring, knit sleeves, rug, lighting and the dog. Change ONLY the patch area: it is now covered by healthy white fur that is slightly shorter and softer than the surrounding coat, so a subtle difference in fur length is still visible. Where the fingers part the coat, the visible skin underneath is calm, pale and healthy. Clean white fur, no staining, no flakes.
-```
-*Keep the slight fur-length difference. A perfect match reads as fake.*
+*Don't show a full coat by day 5. Fur regrowth that fast reads as fake.*
 
-### KF-G16-D21 (edit of KF-G16-D1)
+### KF-G16-D5 (edit of KF-G16-D1)
 ```
-Edit this image. Keep everything identical — the paw position, the woman's hand and thumb position, the gold ring, rug and lighting. Change ONLY the paw: the fur between and on top of the toes is now clean white with no rust-brown staining, the skin between the toes is calm, pale pink and not swollen, hair is full and healthy.
+Edit this image. Keep everything identical — the paw position, the woman's hand and thumb position, the gold ring, rug and lighting. Change ONLY the paw: the fur between and on top of the toes is noticeably cleaner, the skin between the toes is calm, pale pink and not swollen; the rust-brown staining has faded to a light trace.
 ```
 
 **QA for §C.** Lay the four frames over each other in your editor at 50% opacity. Nothing should move except the patch. If the hands or framing shifted, re-run the edit; don't fix it in the video step.
