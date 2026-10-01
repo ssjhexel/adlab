@@ -13,7 +13,7 @@
 | Safety | "No steroids. No fragrance. Lick-safe." | "No steroids. Totally lick-safe." | C01/C06 "safe even if they lick" |
 | Demo + mechanism | "Three to five sprays on dry skin." / "…supporting its natural barrier." | "Three sprays… and the itch is gone." / "Soaks in instantly. Calms the itch. Rebuilds damaged skin." ⚠ | C06 "calms inflammation at the source… rebuilds the skin barrier" |
 | Relief | "No bath. No rinse. Nothing to rub in." + "From the very first spray…" | "Instant, cooling relief." + "Seconds later… he finally stopped scratching." ⚠ | C06 "it cools the inflamed skin", C07/C08 "in just 8 seconds" |
-| Result | "…his skin looked like his again." | "Day one… redness calming. the redness faded… the flaking stopped… and his skin healed." ⚠ | C01 "recovers within a week", C06 "in just days" |
+| Result | "By day three… the redness had calmed… by day five, his skin looked like his again." | "Before… Day one, redness calming. Day three, flakes gone. Day five… brand-new, healthy skin." + "Even those licked-raw paws… calm again." ⚠ | C01 "recovers within a week", C06 "in just days… the angry red spots fade" |
 | Payoff | "Less scratching. Less licking." | "No more scratching. No more licking." ⚠ | C06 "the constant licking stops" |
 | CTA | "Scratch less, lick less, live more. Tap below…" | "Every pet owner needs one. Tap below… on sale today, while stock lasts." | C07 "Every pet owner should have one", C01 "Stock is limited" |
 
@@ -343,10 +343,10 @@ Photoreal scientific micro-photography in every frame. No neon, no glowing parti
 |---|---|---|---|
 | D1 | 0:00–1.4 | 27.0–28.4 | "Instant, cooling relief." |
 | D2 | 1.4–4.6 | 28.4–31.6 | "Seconds later… he finally stopped scratching." |
-| D3 | 4.6–5.6 | 31.6–32.6 | "Day one… redness calming." · super **BEFORE** |
-| D4 | 5.6–6.8 | 32.6–33.8 | "Day three… flakes gone." · super **DAY 1** |
-| D5 | 6.8–8.0 | 33.8–35.0 | "Day five…" · super **DAY 3** |
-| D6 | 8.0–9.8 | 35.0–36.8 | "…brand-new, healthy skin." · super **DAY 5** + *Dramatization. Individual results may vary.* |
+| D3 | 4.6–5.6 | 31.6–32.6 | "Before…" · super **BEFORE** |
+| D4 | 5.6–6.8 | 32.6–33.8 | "Day one, redness calming." · super **DAY 1** |
+| D5 | 6.8–8.0 | 33.8–35.0 | "Day three, flakes gone." · super **DAY 3** |
+| D6 | 8.0–9.8 | 35.0–36.8 | "Day five… brand-new, healthy skin." · super **DAY 5** + *Dramatization. Individual results may vary.* |
 | D7 | 9.8–12.0 | 36.8–39.0 | "Even those licked-raw paws… calm again." · supers **BEFORE / DAY 5** |
 
 Generate exactly 12s and use all of it.
@@ -418,10 +418,10 @@ VOICEOVER
 NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
 0:00.0 to 0:01.4 "Instant, cooling relief."
 0:01.6 to 0:04.4 "Seconds later… he finally stopped scratching."
-0:04.7 to 0:05.5 "Day one… redness calming."
-0:05.7 to 0:06.7 "Day three… flakes gone."
-0:06.9 to 0:07.9 "Day five…"
-0:08.1 to 0:09.7 "…brand-new, healthy skin."
+0:04.7 to 0:05.5 "Before…"
+0:05.7 to 0:06.7 "Day one, redness calming."
+0:06.9 to 0:07.9 "Day three, flakes gone."
+0:08.1 to 0:09.7 "Day five… brand-new, healthy skin."
 0:10.0 to 0:11.8 "Even those licked-raw paws… calm again."
 Voice sits clearly on top; foley ducks under the voice.
 
