@@ -6,6 +6,14 @@ The shot-by-shot route (`VIDEO_PROMPTS.md`) is still the fallback for any single
 
 ---
 
+## Voiceover direction: why this voice
+
+**Choice: a first-person "owner who found the fix" voice. Female, early 30s, warm, conversational American English, close-mic, unpolished.**
+- **Who's watching:** the buyers are mostly women aged 28–55 who own an itchy dog. A peer telling her own story reads as a recommendation. An announcer reads as an ad, and the conversion job here is trust.
+- **What the competitors do:** 4 of the 8 competitor spray ads already use first-person owner voiceover ("that's why I keep…", "my dog used to…"), the most common voice choice in the set. We keep that, but make it more human: real pauses, breath, and a relieved smile instead of a rushed delivery at 200 words per minute.
+- **How it fits the script:** the lines are written in the first person ("So I stopped guessing…", "for both of us"). A male announcer would break them.
+- **Test later:** once Concept 01 has a winning hook, a calm Korean-accented female expert voice for the authority lines (Block B) is a good second voice test.
+
 ## How this route works
 
 | Block | Ad time | Length | Shots | First frame | References |
@@ -33,14 +41,15 @@ Plus the two science-dive frames for Block C (KF-G12 and KF-G12-SCI-END).
 - Generate **3–4 takes per block**. You can mix shots across takes in the edit, since every block uses the same identity references.
 - **Every generation is used whole, at the exact length asked for.** No 5s-per-shot overshoot and no trimming down to a "stable middle". Each block's shot timings add up exactly to its generation length, and the blocks butt-join into the final 50.0s cut. If a take drifts, re-roll the block rather than trimming it.
 - The VO lines are written to fit each shot's duration. Small gaps are breathing room, not dead air.
-- Each prompt keeps **"no voice, no music, no text"**. VO, music, captions, day counters and the end card all go on in post.
+- **Seedance generates the voiceover.** Every prompt contains the same NARRATOR VOICE block word for word, plus the lines timed to the shots. Music, captions, day counters and the end card still go on in post.
+- **Voice consistency across 5 generations is the main risk.** If your Seedance UI accepts an audio reference, generate Block A first, pick the take whose voice you like, and upload ~5s of it as the voice reference for Blocks B–E. If a block's voice drifts, re-roll it. As a last resort, regenerate just that block's lines with a TTS clone of the Block A voice.
 - If the day-counter shots in Block D change framing between cuts, generate them separately with G15 in `VIDEO_PROMPTS.md` (first-frame route). That is the most consistency-sensitive moment in the ad.
 
 ---
 
 ## BLOCK A — Problem (0.0–12.0)
 
-**VO for this block (recorded separately; times are ad timecodes = block time):**
+**VO for this block (spoken by Seedance; ad timecode = block time):**
 
 | Shot | Block time | VO |
 |---|---|---|
@@ -114,7 +123,17 @@ PHYSICS
 Coarse terrier fur bends and springs back along its growth direction. Skin moves slightly under finger pressure. Scratching legs and licking heads move with real weight. Skin flakes are tiny and fall with gravity, never glowing. The bottle has real weight in the hand.
 
 AUDIO
-Natural foley only, matched to each shot: soft fur rustle and breathing (A1); rhythmic collar-tag jingle and thumping (A2); slowed dry scratching (A3); wet licking (A4); a soft clink as the bottle leaves the shelf (A5); quick sniffs and a faint tag jingle (A6). No music. No voice. No narration.
+Natural foley only, matched to each shot: soft fur rustle and breathing (A1); rhythmic collar-tag jingle and thumping (A2); slowed dry scratching (A3); wet licking (A4); a soft clink as the bottle leaves the shelf (A5); quick sniffs and a faint tag jingle (A6). No music.
+
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Unhurried, with short real pauses at each ellipsis; a slight relieved smile in the voice on the payoff lines. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.2 to 0:03.0 "If your dog keeps scratching the same spot… part the fur."
+0:03.3 to 0:04.9 "This kept him up all night."
+0:05.1 to 0:06.6 "Every scratch made the itch worse…"
+0:06.7 to 0:08.3 "…and round it went."
+0:08.5 to 0:10.1 "So I stopped guessing…"
+0:10.3 to 0:11.8 "…and tried Korean pet dermatology."
+Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
 Real smartphone footage texture in every shot, natural unretouched detail. One dog in every dog shot; one or two hands only. No subtitles, no on-screen text, no glow effects. The lesion never bleeds, glows or changes shape.
@@ -122,7 +141,7 @@ Real smartphone footage texture in every shot, natural unretouched detail. One d
 
 ### Block A hook variants (swap the A1 paragraph only)
 
-**H2 — 2 A.M.** (also change the A1 VO to "If you know this sound at 2 a.m.…")
+**H2 — 2 A.M.** (also change the first VOICEOVER line to `0:00.4 to 0:03.0 "If you know this sound at 2 a.m.…"`)
 ```
 SHOT A1 — 0:00 to 0:03.2 — 2 A.M.
 First frame: an almost dark bedroom; a tired woman lifts her head off a white pillow, her face lit only from below by the cold glow of a phone screen, looking toward the foot of the bed at screen-right.
@@ -132,7 +151,7 @@ Action: she squints at the phone, lifts her head and stares toward screen-right,
 Light: phone-screen glow as the only key; faint blue moonlight stripes on the wall; heavy low-light noise.
 ```
 
-**H3 — Spray first** (VO: "This is Korean skincare… for itchy dogs.")
+**H3 — Spray first** (first VOICEOVER line → `0:00.2 to 0:03.0 "This is Korean skincare… for itchy dogs."`)
 ```
 SHOT A1 — 0:00 to 0:03.2 — SPRAY FIRST
 First frame: the same overhead close-up of the irritated patch on @WESTIE's left flank, @OWNER's left hand already spreading the fur, her right hand holding @ATOKONG 12 cm above the patch with the nozzle aimed down and the label turned away; a fine mist cloud is already leaving the nozzle.
@@ -142,7 +161,7 @@ Action: two more pumps; the colorless mist drifts down and settles on the fur an
 Light: soft window daylight from screen-left; the mist is lit from the side.
 ```
 
-**H6 — Not just a habit** (VO: "Constant paw licking isn't always just a habit.")
+**H6 — Not just a habit** (first VOICEOVER line → `0:00.2 to 0:03.0 "Constant paw licking isn't always just a habit."`)
 ```
 SHOT A1 — 0:00 to 0:03.2 — PAW LICKING OPEN
 First frame: extreme close-up at rug level of @WESTIE licking between the toes of his right front paw, rust-brown staining on the white toe fur.
@@ -157,7 +176,7 @@ Light: soft window daylight from screen-left.
 
 ## BLOCK B — Authority + Demo (12.0–24.0)
 
-**VO for this block:**
+**VO for this block (spoken by Seedance):**
 
 | Shot | Block time | Ad time | VO / super |
 |---|---|---|---|
@@ -233,7 +252,16 @@ PHYSICS
 Gloves crease at the knuckles; the lamp arm moves with mechanical resistance. Liquids have real viscosity and surface tension. The mist is made of real fine droplets that slow with air resistance and fall with gravity. Fur parts along its growth direction.
 
 AUDIO
-Natural foley only: quiet clinic room tone and glove rustle (B1); soft lab ambience and a glass clink (B2); a tiny drip (B3); forest ambience and distant birds (B4); one soft pump-mist "tss" (B5); three crisp "tss, tss, tss" one second apart (B6). No music. No voice. No narration.
+Natural foley only: quiet clinic room tone and glove rustle (B1); soft lab ambience and a glass clink (B2); a tiny drip (B3); forest ambience and distant birds (B4); one soft pump-mist "tss" (B5); three crisp "tss, tss, tss" one second apart (B6). No music.
+
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Unhurried, with short real pauses at each ellipsis; a slight relieved smile in the voice on the payoff lines. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.1 to 0:02.0 "Created in Korea by a vet with twenty-plus years in clinic…"
+0:02.1 to 0:04.2 "…and a thirty-year immune-cell researcher."
+0:05.9 to 0:07.2 "With Korean medicinal botanicals."
+0:07.3 to 0:09.0 "No steroids. No fragrance. Lick-safe."
+0:09.3 to 0:11.6 "Three to five sprays on dry skin."
+Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
 Real documentary and smartphone texture; the lab is a real working lab, not futuristic. No holograms, no screens with graphics, no glowing liquids, no sparkles. No subtitles or on-screen text. The spray never goes toward the dog's head.
@@ -272,7 +300,12 @@ LIGHTING
 Soft, even, cool-neutral light from above like a microscope illuminator. Muted natural tissue colors.
 
 AUDIO
-A soft low ambient tone and a faint wet seep. No music. No voice.
+A soft low ambient tone and a faint wet seep. No music.
+
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Unhurried, with short real pauses at each ellipsis; a slight relieved smile in the voice on the payoff lines. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.1 to 0:02.9 "Korean botanicals get to work, soothing the skin and supporting its natural barrier."
+Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
 Photoreal scientific micro-photography in every frame. No neon, no glowing particles, no energy rings, no sparkles, no cartoon or 3D-render cells, no text, no labels.
@@ -281,7 +314,7 @@ Photoreal scientific micro-photography in every frame. No neon, no glowing parti
 
 ## BLOCK D — Relief + Proof (27.0–39.0)
 
-**VO for this block:**
+**VO for this block (spoken by Seedance):**
 
 | Shot | Block time | Ad time | VO / super (supers added in post) |
 |---|---|---|---|
@@ -356,7 +389,18 @@ PHYSICS
 The shake travels from head to tail with real fur inertia. Breathing is visible in the rib cage and nostrils. Body weight settles into the rug. Fur parts along its growth direction; skin moves slightly with finger pressure. Each day's skin state stays fixed within its shot; no morphing.
 
 AUDIO
-Natural foley only: bottle tap on the rug, shake flap and tag jingle (D1); a long dog sigh and soft room tone (D2); soft fur rustle (D3–D7). No music. No voice. No narration.
+Natural foley only: bottle tap on the rug, shake flap and tag jingle (D1); a long dog sigh and soft room tone (D2); soft fur rustle (D3–D7). No music.
+
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Unhurried, with short real pauses at each ellipsis; a slight relieved smile in the voice on the payoff lines. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.0 to 0:01.4 "No bath. No rinse. Nothing to rub in."
+0:01.6 to 0:04.4 "From the very first spray… he stopped scratching and just lay down."
+0:04.7 to 0:05.5 "By day three…"
+0:05.7 to 0:06.7 "…the redness had calmed…"
+0:06.9 to 0:07.9 "…by day five…"
+0:08.1 to 0:09.7 "…his skin looked like his again."
+0:10.0 to 0:10.9 "Even his paws."
+Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
 Real smartphone footage texture. No text, no day labels, no split screen (both added in post). No glow, no sparkles. No full coat regrowth: by day five the fur is still short.
@@ -366,7 +410,7 @@ Real smartphone footage texture. No text, no day labels, no split screen (both a
 
 ## BLOCK E — Payoff + End (39.0–50.0)
 
-**VO for this block:**
+**VO for this block (spoken by Seedance):**
 
 | Shot | Block time | Ad time | VO |
 |---|---|---|---|
@@ -425,7 +469,15 @@ PHYSICS
 Real gallop with weight and ground contact; fur bounces with delay. Slow, natural sleeping breath. The mist settles with gravity. The duvet compresses under both animals.
 
 AUDIO
-Natural foley only: paw thuds on grass, tag jingle and panting (E1); quiet slow breathing and a faint ticking clock (E2); one soft "tss" and a purr (E3); quiet morning room tone and distant birds (E4). No music. No voice. No narration.
+Natural foley only: paw thuds on grass, tag jingle and panting (E1); quiet slow breathing and a faint ticking clock (E2); one soft "tss" and a purr (E3); quiet morning room tone and distant birds (E4). No music.
+
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Unhurried, with short real pauses at each ellipsis; a slight relieved smile in the voice on the payoff lines. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.1 to 0:01.7 "Less scratching. Less licking."
+0:01.9 to 0:03.5 "More sleep — for both of us."
+0:03.7 to 0:05.1 "And it's made for cats, too."
+0:05.5 to 0:10.6 "Atokong. Scratch less, lick less, live more. [OFFER LINE — e.g. Buy two, get one free.] Tap below."
+Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
 Real smartphone and tripod footage texture. One dog, one cat. The spray never goes toward the cat's eyes, ears or mouth. No subtitles or on-screen text.
@@ -434,8 +486,8 @@ Real smartphone and tripod footage texture. One dog, one cat. The spray never go
 ---
 
 ## Edit assembly (multi-shot route)
-1. Lay the VO track first (50.0s; ad timecodes in the block tables).
+1. Join the blocks with their generated voiceover; check that the voice matches across blocks (see the note above).
 2. Butt-join the full generations: A (12s) → B (12s) → C (3s) → D (12s) → E (11s) = 50.0s. No trimming.
 3. Only nudge a VO line if a cut landed visibly early or late.
-4. Add: captions (orange `#F2A21B` highlight), supers, day counters, the real certificate insert in B3, the real packshot composite in A5/A6/E4, music bed, end card, light grain across everything.
+4. Add: captions transcribed from the generated VO, (orange `#F2A21B` highlight), supers, day counters, the real certificate insert in B3, the real packshot composite in A5/A6/E4, music bed, end card, light grain across everything.
 5. Hooks: re-generate Block A with the swapped A1 paragraph, or splice a standalone hook clip from `VIDEO_PROMPTS.md` over 0.0–3.2.
