@@ -817,3 +817,66 @@ Real smartphone and documentary texture. No real or readable competitor brands o
 ```
 
 **Compliance (later pass):** "boosts skin immunity" and "lasting protection" are strong functional claims, and "most itch sprays only numb the surface" is a comparative claim. Tie the wording to what PITEN's skin-immunity research actually supports, for example "formulated with skin-immunity ingredients from 30 years of immune-cell research".
+
+---
+
+### Block I alternate: I3 as a high-end CGI "skin shield" scene
+
+A test variant for the attention spike. I3 becomes a premium pharma-commercial-style CGI sequence: the formula activates the skin's immune cells, which form a glowing protective shield that pollen and irritants bounce off. This deliberately breaks the realism rule for one beat, as the competitor did with their cell animations. The difference is that this one is built to look expensive, not cartoonish.
+
+**Two ways to use it**
+1. **Standalone (recommended):** generate the prompt below as its own **3s** clip and cut it into Block I over 5.4–8.0. Seedance holds a style switch more reliably as its own generation.
+2. **In-block:** paste the **SHOT I3** paragraph at the bottom into Block I in place of the photoreal I3, and change "No glow effects, no sparkles" in Block I's POSITIVE CONSTRAINTS to "No glow effects or sparkles except in shot I3."
+
+Super (post): **SKIN-IMMUNITY SHIELD** · small *Visualization*
+
+```
+SCENE CONTEXT
+A premium CGI science visualization: Korean botanical formula droplets sink into dog skin, wake up the skin's immune cells, and the cells link together into a glowing protective shield across the skin surface that deflects incoming pollen and irritant particles.
+
+FORMAT MODE
+Single continuous take, 3 seconds. One continuous CGI camera move, no cuts.
+
+FIRST FRAME AND SPATIAL BLOCKING
+The first visible frame already shows a macro CGI cross-section of skin filling the frame: translucent layered epidermis in soft pink and pearl tones at frame center, white hair shafts rising diagonally at screen-right, and three amber-gold liquid droplets just touching the skin surface at the top of frame. Dark blue-black background above the skin. No empty frame.
+
+OPTICS
+Virtual macro camera, 29° diagonal field of view, cinematic shallow depth of field, focus on the skin surface.
+
+CAMERA
+A slow, smooth, continuous dolly push down and forward into the skin layers, then rising slightly to a low angle across the surface for the final second. Steady and controlled, high-end commercial motion.
+
+ACTION TIMING
+0:00 to 0:01 The amber-gold droplets sink into the skin surface, and soft golden ripples spread through the translucent layers.
+0:01 to 0:02 Deep in the skin, small round immune cells light up one by one with a warm amber glow and send thin glowing threads to each other, linking into a network.
+0:02 to 0:03 The network rises to the surface and forms a thin, glowing honeycomb shield of amber-gold light over the skin; spiky pollen grains and dust particles drifting down from above hit the shield and bounce away with small sparks, while the skin below stays calm pale pink.
+
+PHYSICS
+Liquids have weight and viscosity as they sink. Particles drift with gentle air currents and rebound off the shield with believable momentum. The shield flexes slightly on each impact, like a soft membrane.
+
+LIGHTING
+Cinematic volumetric lighting: a cool blue rim from above, a warm amber glow from the formula and the shield, subsurface scattering in the translucent skin layers, soft bloom only on the shield and the activated cells. Rich contrast, deep blacks.
+
+STYLE
+Ultra-high-end pharmaceutical and skincare commercial CGI, photoreal materials, Octane or Unreal Engine 5 render quality, 8-bit-free smooth gradients, film-grade detail. Color palette: pearl pink, deep navy, amber-gold accents matching ATOKONG orange.
+
+AUDIO
+A deep cinematic whoosh as the droplets sink, a soft rising shimmer as the cells activate, light crystalline taps as particles bounce off the shield. No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.1 to 0:02.7 "…so his skin can fight back against the next flare-up."
+Voice sits clearly on top; sound design ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Premium, polished CGI throughout, not cartoonish: no faces on cells, no cute characters, no bacteria monsters. No text, no labels, no logos, no UI graphics. The shield is subtle and elegant, not a sci-fi force field.
+```
+
+**In-block version (paste into Block I in place of SHOT I3):**
+```
+SHOT I3 — 0:05.4 to 0:08.0 — SKIN-IMMUNITY SHIELD (CGI)
+First frame: a premium CGI macro cross-section of translucent pearl-pink skin layers with white hair shafts rising at screen-right and amber-gold formula droplets touching the surface, dark navy background above. Style switches here to ultra-high-end pharmaceutical commercial CGI, photoreal materials, volumetric light, subsurface scattering.
+Optics: virtual macro camera, 29° diagonal field of view, shallow depth of field.
+Camera: a slow continuous dolly push into the layers, rising to a low angle across the surface.
+Action: the droplets sink in with golden ripples; immune cells deep in the skin light up amber and link with glowing threads; the network rises into a thin glowing honeycomb shield over the surface; spiky pollen and dust particles hit the shield and bounce away while the skin below stays calm.
+Light: cool blue rim from above, warm amber glow from the shield and cells, soft bloom only on the shield.
+```
