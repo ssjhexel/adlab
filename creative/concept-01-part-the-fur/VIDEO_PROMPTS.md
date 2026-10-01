@@ -21,6 +21,8 @@ The location plates (REF-LIVINGROOM, REF-BEDROOM-NIGHT) are already baked into t
 
 ### G01 — Hook: part the fur (S01–S02, hooks H1/H8)
 First frame: **KF-G01** · Refs: @WESTIE, @OWNER · 5s
+🎙 **VO (0.0–3.2s):** "If your dog keeps scratching the same spot… part the fur." · H8 alt: "Looking for a non-steroidal way to care for your dog's itchy skin?"  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 A woman parts the white coat on her dog's left flank and reveals a patch of irritated, flaky skin he has been scratching.
@@ -67,6 +69,8 @@ The patch keeps the same size, shape and color in every frame: it does not heal,
 
 ### G02 — Night scratching (S03, H2 second half)
 First frame: **KF-G02** · Refs: @WESTIE · 5s
+🎙 **VO (3.2–5.0s):** "This kept him up all night."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 At night in a dark bedroom, a small white terrier scratches his left flank hard with his hind leg on his dog bed while his owner lifts her head in bed behind him.
@@ -111,6 +115,8 @@ One dog, one person. The dog stays on the dog bed. Scratching motion is fast, re
 
 ### G03 — Claws macro, slow motion (S04)
 First frame: **KF-G03** · Refs: @WESTIE · 5s
+🎙 **VO (5.0–6.6s):** "Every scratch made the itch worse…"  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 In slow motion, a white terrier's hind claws rake through the fur over an irritated patch on his flank, lifting tiny skin flakes into a sliver of lamp light.
@@ -152,6 +158,8 @@ Photographic macro realism. No sparkles, no particles beyond real skin flakes, n
 
 ### G04 — Paw licking (S05, hook H6)
 First frame: **KF-G04** · Refs: @WESTIE · 5s
+🎙 **VO (6.6–8.4s):** "…and round it went." · H6 alt: "Constant paw licking isn't always just a habit."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 On a living-room rug in daylight, a white terrier obsessively licks between the toes of his right front paw.
@@ -196,6 +204,8 @@ One dog, four legs, natural anatomy. The paw has four visible toes and a dewclaw
 
 ### G05 — Product pickup (S06) · REAL SHOOT PREFERRED
 First frame: **KF-G05** · Refs: @OWNER, @ATOKONG · 4s · *AI fallback only. Composite the real label in post.*
+🎙 **VO (8.4–10.2s):** "So I stopped guessing…"  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 A woman's hand lifts a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, off a sunlit shelf.
@@ -238,6 +248,8 @@ Bottle shape stays constant. The label area stays flat and evenly lit for compos
 
 ### G06 — Dog sniffs the bottle (S07)
 First frame: **KF-G06** · Refs: @WESTIE, @OWNER, @ATOKONG · 4s · *Composite the real bottle in post.*
+🎙 **VO (10.2–12.0s):** "…and tried Korean pet dermatology."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 A woman holds a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, near her dog's nose and he leans in to sniff it.
@@ -283,6 +295,8 @@ One dog, one hand. The dog does not bite or lick the bottle. The bottle stays in
 
 ### G07 — Veterinarian exam (S08, hook H7)
 First frame: **KF-G07** · Refs: @WESTIE · 5s
+🎙 **VO (12.0–14.0s):** "Created in Korea by a vet with twenty-plus years in clinic…" · H7 alt: "A vet and an immune-cell researcher made one spray… for itchy skin."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 In a veterinary clinic, a vet's gloved hands part a white terrier's fur under a magnifier lamp to examine his skin.
@@ -327,6 +341,8 @@ The vet's face never appears. Exactly two gloved hands. Realistic working veteri
 
 ### G07B — Korean vet-researcher b-roll ⭐ (S08b, hook H7)
 First frame: **KF-G07B** · No @tags · 5s
+🎙 **VO (14.0–16.0s):** "…and a thirty-year immune-cell researcher."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 In a bright Seoul research lab, a Korean veterinary researcher looks up from her microscope and lifts a small glass vial of pale amber formula to the window light to examine it.
@@ -365,6 +381,8 @@ One person in focus, natural unretouched skin texture, real documentary feel. Sh
 
 ### G08 — Lab pipette (S09, hook H7)
 First frame: **KF-G08** · No @tags · 5s
+🎙 **VO (16.0–17.8s):** (tail of the researcher line) · Super: REGISTERED VETERINARY QUASI-DRUG · KOREA  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 In a laboratory, a gloved hand releases a single drop of pale amber botanical extract from a glass pipette into a small vial.
@@ -403,6 +421,8 @@ Real laboratory glassware, no glowing liquid, no holograms, no screens with grap
 
 ### G09 — Daphne kiusiana botanicals (S10)
 First frame: **KF-G09** (or KF-G09B) · No @tags · 5s
+🎙 **VO (17.8–19.2s):** "With Korean medicinal botanicals."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 Dense clusters of small white Korean daphne flowers sway gently in a misty evergreen forest in the early morning.
@@ -440,6 +460,8 @@ Real botanical photography, true colors, no glow, no particles.
 
 ### G10 — Mist on palm (S11) · REAL SHOOT PREFERRED
 First frame: **KF-G10** · Refs: @OWNER · 4s
+🎙 **VO (19.2–21.0s):** "No steroids. No fragrance. Lick-safe."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 A woman sprays a clear mist onto her open palm next to a bright window, and the fine droplets catch the light.
@@ -481,6 +503,8 @@ The mist is completely colorless. Exactly two hands. No sparkle effects.
 
 ### G11 — Spray demo (S12, hook H3)
 First frame: **KF-G11** · Refs: @WESTIE, @OWNER, @ATOKONG · 5s
+🎙 **VO (21.0–23.6s):** "Three to five sprays on dry skin." · H3 alt: "This is Korean skincare… for itchy dogs."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 The woman holds her dog's fur open over the irritated patch on his flank and sprays it three times with a fine mist.
@@ -528,6 +552,8 @@ The spray goes only onto the flank patch, never toward the head. The patch does 
 
 ### G12 — Droplets macro (S13)
 First frame: **KF-G12** · Refs: @WESTIE · 5s
+🎙 **VO (23.6–26.4s):** (first frame for G12-SCI) "Korean botanicals get to work, soothing the skin and supporting its natural barrier."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 Extreme close-up of fine mist droplets resting on white hair tips and irritated pink skin, slowly settling and soaking in.
@@ -568,6 +594,8 @@ No oily sheen, no residue, no color change, no glow. Photographic macro realism.
 
 ### G12-SCI — Macro science dive ⭐ (S13, hook H11)
 First frame: **KF-G12** (droplets macro) · Last frame: **KF-G12-SCI-END** · Optional middle reference: KF-G12-SCI-MID · Refs: @WESTIE · 5s (use ~2.8s)
+🎙 **VO (23.6–26.4s):** "Korean botanicals get to work, soothing the skin and supporting its natural barrier." · H11 alt: "Here's what Korean pet skincare does under the fur."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 *If your Seedance UI has no first+last-frame mode, generate two clips (KF-G12 → push-in, and KF-G12-SCI-MID → END) and join them with a HARD CUT on the push-in.*
 ```
 SCENE CONTEXT
@@ -614,6 +642,8 @@ Photoreal scientific micro-photography in every frame. No neon, no glowing parti
 
 ### G13 — Bottle down, shake-off (S14)
 First frame: **KF-G13** · Refs: @WESTIE, @OWNER, @ATOKONG · 5s
+🎙 **VO (26.4–27.8s):** "No bath. No rinse. Nothing to rub in."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 The woman sets the spray bottle down on the rug as her dog stands, shakes out his coat and trots toward the sunny window.
@@ -660,6 +690,8 @@ One dog, one hand. The dog keeps the same size and coat. The bottle stays uprigh
 
 ### G14 — Relief: he lies down ⭐ (S15)
 First frame: **KF-G14** · Refs: @WESTIE, @OWNER · 5s
+🎙 **VO (27.8–31.0s):** "From the very first spray… he stopped scratching and just lay down."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 In a patch of afternoon sun on the rug, the small white terrier lets out a long sigh, rests his chin on his paws and slowly closes his eyes while his owner strokes his back once.
@@ -705,6 +737,8 @@ The dog does not scratch, lick or move away. Calm, slow, real behavior. One dog,
 
 ### G15 — Transformation series: BEFORE / DAY 1 / 3 / 5 (S16–S19, hook H5)
 First frames: **KF-G15-D0, -D1, -D3, -D5** · Refs: @WESTIE, @OWNER · **3s each**
+🎙 **VO (31.0–36.2s):** D0 "By day three…" · D1 "…the redness had calmed…" · D3 "…by day five…" · D5 "…his skin looked like his again." · H5 alt: "Same spot. Five days apart."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 Run the same prompt four times, once per start frame, swapping only the bracketed `[SKIN STATE]` line. The motion is deliberately minimal, so the cut between days carries the change.
 
 `[SKIN STATE]` per day:
@@ -754,6 +788,8 @@ The skin condition stays exactly as described for the whole clip: no change, no 
 
 ### G16 — Paw progress, BEFORE and DAY 5 (S20)
 First frames: **KF-G16-D1** and **KF-G16-D5** · Refs: @WESTIE, @OWNER · 3s each · Stack top/bottom in the edit.
+🎙 **VO (36.2–37.8s):** "Even his paws."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 Close-up of a small white terrier's front paw resting in his owner's palm while her thumb gently spreads his toes to show the skin between them.
@@ -795,6 +831,8 @@ The paw condition stays exactly as in the start image for the whole clip. Four t
 
 ### G17 — Garden zoomies (S21)
 First frame: **KF-G17** · Refs: @WESTIE · 5s
+🎙 **VO (37.8–39.6s):** "Less scratching. Less licking."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 On a dewy morning lawn, the small white terrier gallops straight toward the camera, full of energy.
@@ -838,6 +876,8 @@ One dog, four legs moving in a correct gallop pattern. No telephoto-to-wide drif
 
 ### G18 — Night sleep (S22)
 First frame: **KF-G18** · Refs: @WESTIE · 5s
+🎙 **VO (39.6–41.4s):** "More sleep — for both of us."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 At night in the bedroom, the small white terrier sleeps peacefully curled on his dog bed while his owner sleeps in the bed behind him.
@@ -880,6 +920,8 @@ Completely calm and still. No scratching. One dog, one person.
 
 ### G19 — Cat cameo (S23)
 First frame: **KF-G19** · Refs: @CAT, @OWNER, @ATOKONG · 4s
+🎙 **VO (41.4–43.0s):** "And it's made for cats, too."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 On the sofa, the owner parts the fur at the side of her grey cat's neck and gives it one gentle spray; the cat slow-blinks, relaxed.
@@ -923,6 +965,8 @@ The spray never goes toward the cat's eyes, ears or mouth. The cat stays calm an
 
 ### G20 — End hero (S24)
 First frame: **KF-G20** · Refs: @WESTIE, @CAT, @ATOKONG · 5s · *Composite the real bottle in post. The end card overlays from 43.0s.*
+🎙 **VO (43.0–48.2s):** "Atokong. Scratch less, lick less, live more. [Offer line.] Tap below."  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 On a bright morning bed, the healthy white terrier sits happily looking at camera while the grey cat lounges behind him, with a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label on the bedside table in the foreground.
@@ -971,6 +1015,8 @@ One dog, one cat, one bottle. The bottle stays still and upright. The animals st
 
 ### G-H2 — 2 A.M. owner (hook H2, 0–1.2s)
 First frame: **KF-H2** · No @tags · 4s
+🎙 **VO (hook 0.0–3.2s):** "If you know this sound at 2 a.m.…"  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 In a near-dark bedroom at night, a tired woman lifts her head off the pillow, her face lit only by her phone screen, and looks toward the foot of the bed.
@@ -1007,6 +1053,8 @@ One person. Her face stays mostly in shadow except for the phone glow. Real low-
 
 ### G-H4 — K-beauty shelf (hook H4) · REAL SHOOT PREFERRED
 First frame: **KF-H4** · Refs: @OWNER, @ATOKONG · 4s
+🎙 **VO (hook 0.0–3.2s):** "I trust Korean skincare with my face… so why not my dog's itchy skin?"  
+*VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT
 A woman's hand passes along a shelf of minimalist skincare bottles and picks up a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label at the end of the row.
