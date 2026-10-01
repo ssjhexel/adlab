@@ -528,6 +528,52 @@ No oily sheen, no residue, no color change, no glow. Photographic macro realism.
 
 ---
 
+### G12-SCI — Macro science dive ⭐ (S13, hook H11)
+First frame: **KF-G12** (droplets macro) · Last frame: **KF-G12-SCI-END** · Optional middle reference: KF-G12-SCI-MID · Refs: @WESTIE · 5s (use ~2.8s)
+*If your Seedance UI has no first+last-frame mode, generate two clips (KF-G12 → push-in, and KF-G12-SCI-MID → END) and join them with a HARD CUT on the push-in.*
+```
+SCENE CONTEXT
+An extreme macro of fine mist droplets on irritated dog skin pushes through the surface into a microscope-style cross-section of the skin, where the clear liquid soaks into the gaps of the irritated surface layer and the tissue visibly calms.
+
+ACTIVE REFERENCES
+@WESTIE: coarse white hair shafts and pink irritated skin of the left flank at the start of the shot. 100% matches the reference.
+
+FIRST FRAME AND SPATIAL BLOCKING
+The first visible frame matches the start image: tiny clear droplets on white hair tips and pink skin across the frame. The last frame matches the end image: a calm, sealed skin cross-section with a hair shaft rising diagonally at screen-right.
+
+FORMAT MODE
+Controlled multi-shot sequence with one MATCH CUT at 1.0 second.
+Shot A 0:00 to 0:01: surface macro. Shot B 0:01 to 0:05: microscope cross-section, opening on the same droplet position at frame center.
+
+OPTICS
+Shot A: 18° diagonal field of view, classic telephoto macro character, razor-thin focus on the skin surface.
+Shot B: scientific microscope view, flat even perspective, soft shallow depth of field, focus on the surface cell layer.
+
+CAMERA
+Shot A: a slow, steady push-in toward one droplet resting on the skin at frame center.
+Shot B: continues the same slow downward push, settling on the surface layer. No rotation, no shake.
+
+ACTION TIMING
+0:00 to 0:01 The camera pushes toward the droplet at frame center as it starts to soak into the skin.
+0:01 to 0:02 MATCH CUT into the cross-section: the surface cell layer is uneven and slightly lifted with small gaps, the tissue below is deep red-pink, and clear liquid from the surface flows down into the gaps between the cells.
+0:02 to 0:04 The liquid spreads along the gaps; the lifted cells settle flat and close together into a smooth continuous layer; the red-pink tissue below slowly cools to a calm pale pink.
+0:04 to 0:05 Hold on the calm, sealed skin layer with a thin film of moisture on top.
+
+PHYSICS
+The liquid behaves like real water-based fluid: it beads, wicks along the gaps by capillary action and spreads slowly. Cells move slightly and organically as they settle, like soft living tissue, never snapping or morphing abruptly. Color change is gradual and even.
+
+LIGHTING
+Soft, even, cool-neutral light from above like a microscope illuminator. Natural muted tissue colors. No glow, no rim light effects, no colored light.
+
+AUDIO
+A soft, low ambient tone and a faint wet seep sound. No music. No voice.
+
+POSITIVE CONSTRAINTS
+Photoreal scientific micro-photography in every frame. No neon, no glowing particles, no energy rings, no sparkles, no cartoon or 3D-render cells, no text, no labels, no holograms.
+```
+
+---
+
 ### G13 — Bottle down, shake-off (S14)
 First frame: **KF-G13** · Refs: @WESTIE, @OWNER, @ATOKONG · 5s
 ```

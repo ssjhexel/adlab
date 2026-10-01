@@ -114,8 +114,8 @@ The competitor ads look AI-made mainly in their CG devices and their too-perfect
 | 6 | 16.6–18.0 | With Korean medicinal botanicals. | **[Daphne kiusiana · Daphne genkwa]** |
 | 7 | 18.0–19.8 | No steroids. No fragrance. Lick-safe. | **[NON-STEROIDAL · FRAGRANCE-FREE · LICK-SAFE]** |
 | 8 | 19.8–22.4 | Three to five sprays on dry skin. | **[3–5 SPRAYS]** |
-| 9 | 22.4–24.2 | No bath. No rinse. | |
-| 10 | 24.2–25.8 | Nothing to rub in. | |
+| 9 | 22.4–25.2 | Korean botanicals get to work, soothing the skin and supporting its natural barrier. | **[KOREAN BOTANICAL FORMULA]** + small: *Visualization* |
+| 10 | 25.2–26.6 | No bath. No rinse. Nothing to rub in. | |
 | 11 | 25.8–29.4 | And for the first time in weeks… he just lay down. | |
 | 12 | 29.4–35.0 | Day after day, the redness calmed… the flaking eased… and his coat filled back in. | **[DAY 1] [DAY 5] [DAY 12] [DAY 21]** + small: *Dramatization. Individual results may vary.* |
 | 13 | 35.0–36.6 | Even his paws. | **[DAY 1 / DAY 21]** |
@@ -149,8 +149,8 @@ Word count ≈ 134 (+ offer) over 47s, about 170 wpm.
 | **S11** | 18.0–19.8 (1.8) | Backlit: the owner sprays the mist onto her open palm. The fine cloud catches window light, droplets bead on skin. Clean, colorless | Handheld, side-backlit | "No steroids. No fragrance." · SFX: single *tss* | G10 | **REAL** (or AI) |
 | **S12** | 19.8–22.4 (2.6) | **Demo:** the same flank. Left hand parts the fur over the patch; the right hand sprays 3 pumps from ~12 cm. The mist cloud drifts down onto the skin | Handheld close-up, 3/4 above | "Three to five sprays on dry skin." · SFX: *tss-tss-tss* (mix hot) | G11 | AI |
 | **S13b** *(optional insert)* | — | 0.8s: the Westie licks his freshly misted paw, no reaction; owner relaxed. Super: **LICK-SAFE** | Low macro | supports VO 7 | G04 variant | AI |
-| **S13** | 22.4–24.2 (1.8) | Macro: fine droplets settle on hair tips and the pink skin, then soak in. No gloss or residue | Macro, locked | "No bath. No rinse." | G12 | AI |
-| **S14** | 24.2–25.8 (1.6) | Owner sets the bottle down on the rug. The Westie stands, gives a short full-body shake and trots two steps toward the sunny window | Low handheld, 1.2 m | "Nothing to rub in." · SFX: shake, tag jingle | G13 | AI |
+| **S13** ⭐ | 22.4–25.2 (2.8) | **MACRO SCIENCE DIVE:** starts on fine droplets settling on the pink skin, then the camera pushes *through* the surface into a photoreal microscopy-style cross-section of the skin layers. The droplets' clear liquid seeps into the gaps between the irritated, slightly lifted surface cells; the cell layer flattens and closes up and the deep red tone cools to a calm pale pink. Looks like a real lab microscope / documentary micro-photography, not a CG cartoon | Macro, locked | "No bath. No rinse." | G12 (first frame) → G12-SCI (first+last frame) | AI |
+| **S14** | 25.2–26.6 (1.4) | Owner sets the bottle down on the rug. The Westie stands, gives a short full-body shake and trots two steps toward the sunny window | Low handheld, 1.2 m | "Nothing to rub in." · SFX: shake, tag jingle | G13 | AI |
 | **S15** | 25.8–29.4 (3.6) | **Relief beat:** in a patch of sun on the rug, the Westie lies down, exhales a long sigh (chest falls, nostrils flare), lowers his chin onto his front paws, and his eyes slowly close. Owner's hand strokes his back once | Low static at rug level, 1.5 m, long-lens feel | "And for the first time in weeks… he just lay down." · SFX: long dog sigh, room tone | G14 | AI |
 | **S16** | 29.4–30.6 (1.2) | **DAY 1:** exact S01 framing. Fingers part the fur; the patch is raw | Locked, matches S01 | "Day after day…" · SFX: soft camera-shutter tick on each day change | G15-D1 | AI |
 | **S17** | 30.6–31.8 (1.2) | **DAY 5:** same framing. Redness softened to pink, scratch lines faded, fewer flakes | Locked | "…the redness calmed…" | G15-D5 | AI |
@@ -165,6 +165,22 @@ Word count ≈ 134 (+ offer) over 47s, about 170 wpm.
 **Continuity.** The patch is always on the **left flank, just forward of the left hip**. The paw is always the **right front**. The owner's ring is always on the **right hand**. The window is always **camera-left** in the living room.
 
 ---
+
+### 6.1 Timing note
+Adding the science dive makes S13 1.0s longer, so S14 ends at 26.6. **Everything from S15 onward moves +0.8s** (S15 = 26.6–30.2 … end card to 47.8s). Either accept the 47.8s cut or trim S15 to 2.8s to keep 47.0s.
+
+### 6.2 Korean registration / certification on screen (post-production)
+Yes, use it. The competitor set has no third-party proof at all, so this is a real advantage. Put it on screen in three places:
+1. **Authority beat (S09, 14.4–16.6):** add a super under the lab shot: **REGISTERED VETERINARY QUASI-DRUG · KOREA**. In the last 0.6s, cut to a 0.8s insert: the real certificate (scan or phone photo of the document on a desk) with a slow push-in, key line and official seal visible, personal or sensitive numbers blurred. Use the **real document only**; never generate a certificate with AI.
+2. **Product shots (S07, S24):** the label already says 동물용의약외품. Add a small callout arrow + "Registered in Korea" pointing to it.
+3. **End card:** a small trust badge row: *Registered in Korea · Non-steroidal · Lick-safe*.
+
+Wording guardrails: say exactly what the certificate says ("registered as a veterinary quasi-drug in Korea"). Don't translate it into "FDA-approved", "vet-approved" or "approved in the US/UK", which are different regulators. Keep the scan file in `product/images/` for anyone checking claims.
+
+### 6.3 About the science shot (realism and claims)
+- This shot deliberately bends the "no CG" rule in §4, so it has to be made in the **style of real microscopy**: muted natural colors, soft depth of field, fine organic texture, slight imperfection. No neon glow, energy rings, sparkles, cartoon cells or hologram graphics. Those are what made the competitor mechanism shots look AI-made.
+- Label it with a small *Visualization* super so it isn't read as real footage of this dog's skin.
+- Keep the VO to soothing and barrier support. Don't say "heals from the inside", "repairs" or "penetrates deep".
 
 ## 7. Cutdowns
 
@@ -226,6 +242,12 @@ Each hook replaces **0.0–3.2s** (S01–S02 and VO line 1). From S03 onward the
 - **Super:** 50+ YEARS OF COMBINED EXPERTISE
 - **Gen:** G07 + G08.
 - **Tests:** an authority-first open (brand angle #6). Nothing like it exists in the competitor set.
+
+### H11 — "Inside the Skin" (science-first)
+- **Visual:** frame 0 is the S12 spray already misting the patch; at 0.8s it hard-cuts into the S13 science dive.
+- **VO:** "Here's what Korean pet skincare does under the fur."
+- **Super:** KOREAN PET DERMATOLOGY · *Visualization*
+- **Tests:** a mechanism/curiosity hook built on the competitor's cell-animation idea, done photoreal.
 
 ### H10 — "Lick-Safe"
 - **Visual:** the owner mists the Westie's front paw (Day 1 paw); he licks it straight away; the owner doesn't react.

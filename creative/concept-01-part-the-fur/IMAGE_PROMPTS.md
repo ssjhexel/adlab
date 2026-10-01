@@ -161,6 +161,18 @@ Extreme macro of the irritated pink skin patch and surrounding white hair shafts
 ```
 + REALISM SUFFIX
 
+### KF-G12-SCI-END — Science dive, last frame (S13)
+Refs: KF-G12 (for color match)
+```
+Vertical scientific micro-photograph of a cross-section through healthy, calm dog skin, in the style of a real laboratory microscope image or high-end nature-documentary micro-photography. The top of frame shows the skin surface: a smooth, tightly packed, continuous layer of flat surface cells, sealed and even, with a thin layer of clear moisture resting on top. Below, the deeper layers are calm pale pink with soft natural tissue texture, a white hair shaft rising diagonally through the layers on one side. Muted natural colors, soft shallow depth of field, fine organic irregularity, gentle cool-neutral light from above. No glow, no neon, no sparkles, no cartoon cells, no text, no labels.
+```
+
+### KF-G12-SCI-MID — Science dive, irritated state (optional middle keyframe)
+```
+The same cross-section composition as KF-G12-SCI-END, but the skin is irritated: the surface cell layer is uneven, slightly lifted and cracked with small gaps between cells, the deeper tissue is a deeper red-pink with visible tiny congested blood vessels, and clear droplets of liquid are entering the gaps from the surface. Same microscope style, muted natural colors, no glow, no cartoon look.
+```
+*Generate MID first, then make END as an edit of MID ("change only the tissue: calm, sealed, pale pink") so the framing matches.*
+
 ### KF-G13 — Bottle down, dog stands
 Refs: REF-WESTIE-1, REF-OWNER, REF-LIVINGROOM
 ```
