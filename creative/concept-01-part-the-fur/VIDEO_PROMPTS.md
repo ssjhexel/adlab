@@ -965,7 +965,7 @@ The spray never goes toward the cat's eyes, ears or mouth. The cat stays calm an
 
 ### G20 — End hero (S24)
 First frame: **KF-G20** · Refs: @WESTIE, @CAT, @ATOKONG · 5s · *Composite the real bottle in post. The end card overlays from 43.0s.*
-🎙 **VO (43.0–48.2s):** "Atokong. Scratch less, lick less, live more. [Offer line.] Tap below."  
+🎙 **VO (43.0–48.2s):** "Scratch less, lick less, live more. Tap below to get Atokong No-Itch Mist on sale today."  
 *VO is recorded separately and laid in during the edit. The prompt keeps "No voice" so Seedance doesn't speak over it. Time the clip's action to the length of this line.*
 ```
 SCENE CONTEXT

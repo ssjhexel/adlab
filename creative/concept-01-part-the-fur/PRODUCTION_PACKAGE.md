@@ -48,7 +48,7 @@ The owner's pain is helplessness plus sleeplessness. The pet's pain is the itch-
 | Ease objection (P8) | "3–5 sprays on dry skin. No bath. No rinse. Nothing to rub in." | Same |
 | Gentleness, dogs + cats (P9) | Mist on palm + cat cameo | Plus *specific* free-froms (non-steroidal, fragrance-free) |
 | Emotional payoff (P10) | "More sleep — for both of us" | Owner's sleep, not just the dog's: the real insight |
-| Bundle offer (P11) | End card `[OFFER]` | Pending the client's offer |
+| Bundle offer (P11) | End card **ON SALE TODAY** | Pending the client's offer |
 | First-person VO, ~190 wpm (P13) | First-person owner VO at ~170 wpm | Slightly slower so the authority lines land |
 
 ### 2.6 Emotional arc
@@ -122,7 +122,7 @@ The competitor ads look AI-made mainly in their CG devices and their too-perfect
 | 14 | 37.8–39.6 | Less scratching. Less licking. | |
 | 15 | 39.6–41.4 | More sleep — for both of us. | |
 | 16 | 41.4–43.0 | And it's made for cats, too. | **[FOR DOGS & CATS]** |
-| 17 | 43.0–48.2 | Atokong. Scratch less, lick less, live more. `[OFFER LINE, e.g. "Buy two, get one free."]` Tap below. | End card: logo · **Stop Scratching.** · `[OFFER]` · **Free shipping** `[if applicable]` · **Shop Now ↓** |
+| 17 | 43.0–48.2 | Scratch less, lick less, live more. Tap below to get Atokong No-Itch Mist on sale today. | End card: logo · **Stop Scratching.** · **ON SALE TODAY** · **Free shipping** `[if applicable]` · **Shop Now ↓** |
 
 Word count ≈ 142 (+ offer) over 48s, about 170 wpm.
 
@@ -161,7 +161,7 @@ Word count ≈ 142 (+ offer) over 48s, about 170 wpm.
 | **S21** | 37.8–39.6 (1.8) | Morning garden: the Westie sprints toward camera across the lawn, ears up, tongue out, collar tag bouncing | Telephoto feel, low, tracking slightly | "Less scratching. Less licking." · SFX: paws on grass, jingle | G17 | AI |
 | **S22** | 39.6–41.4 (1.8) | Night bedroom (same as S03): the Westie asleep, curled on his bed, chest slowly rising. The owner asleep in soft background. Still | Static, same position as S03 | "More sleep — for both of us." · SFX: quiet breathing, distant clock | G18 | AI |
 | **S23** | 41.4–43.0 (1.6) | Sofa: grey British Shorthair cat. The owner's hand parts the fur at the side of the neck and sprays once from 15 cm, away from the face. The cat slow-blinks | Handheld close, eye level | "And it's made for cats, too." · SFX: *tss*, purr | G19 | AI |
-| **S24** | 43.0–48.2 (5.2) | **End:** the healed Westie sits on the white duvet in morning light, the ATOKONG bottle upright in the foreground, the cat lounging behind. At 44.2 the end card animates in over the top: logo, "Stop Scratching.", `[OFFER]`, Shop Now ↓ | Static, eye level with the dog | "Atokong. Scratch less, lick less, live more. [Offer.] Tap below." · Music swell, final *tss* | G20 | COMP |
+| **S24** | 43.0–48.2 (5.2) | **End:** the healed Westie sits on the white duvet in morning light, the ATOKONG bottle upright in the foreground, the cat lounging behind. At 44.2 the end card animates in over the top: logo, "Stop Scratching.", **ON SALE TODAY**, Shop Now ↓ | Static, eye level with the dog | "Scratch less, lick less, live more. Tap below to get Atokong No-Itch Mist on sale today." · Music swell, final *tss* | G20 | COMP |
 
 **Continuity.** The patch is always on the **left flank, just forward of the left hip**. The paw is always the **right front**. The owner's ring is always on the **right hand**. The window is always **camera-left** in the living room.
 

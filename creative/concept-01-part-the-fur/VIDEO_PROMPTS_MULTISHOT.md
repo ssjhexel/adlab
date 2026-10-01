@@ -417,7 +417,7 @@ Real smartphone footage texture. No text, no day labels, no split screen (both a
 | E1 | 0:00–1.8 | 39.0–40.8 | "Less scratching. Less licking." |
 | E2 | 1.8–3.6 | 40.8–42.6 | "More sleep — for both of us." |
 | E3 | 3.6–5.2 | 42.6–44.2 | "And it's made for cats, too." · super FOR DOGS & CATS |
-| E4 | 5.2–11.0 | 44.2–50.0 | "Atokong. Scratch less, lick less, live more. [Offer line.] Tap below." · end card overlays from 45.4 |
+| E4 | 5.2–11.0 | 44.2–50.0 | "Scratch less, lick less, live more. Tap below to get Atokong No-Itch Mist on sale today." · end card overlays from 45.4 |
 
 Generate exactly 11s and use all of it. Composite the real packshot over the bottle in E4.
 
@@ -476,7 +476,7 @@ NARRATOR VOICE (identical in every line): one off-screen female narrator, early 
 0:00.1 to 0:01.7 "Less scratching. Less licking."
 0:01.9 to 0:03.5 "More sleep — for both of us."
 0:03.7 to 0:05.1 "And it's made for cats, too."
-0:05.5 to 0:10.6 "Atokong. Scratch less, lick less, live more. [OFFER LINE — e.g. Buy two, get one free.] Tap below."
+0:05.5 to 0:10.6 "Scratch less, lick less, live more. Tap below to get Atokong No-Itch Mist on sale today." (say "Atokong" as AH-toh-kong, stress on the first syllable; warm, smiling, with a small pause before "Tap below")
 Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
