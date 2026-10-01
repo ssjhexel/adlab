@@ -925,3 +925,75 @@ Camera: a slow continuous dolly push into the layers, rising to a low angle acro
 Action: the droplets sink in with golden ripples; immune cells deep in the skin light up amber and link with glowing threads; the network rises into a thin glowing honeycomb shield over the surface; spiky pollen and dust particles hit the shield and bounce away while the skin below stays calm.
 Light: cool blue rim from above, warm amber glow from the shield and cells, soft bloom only on the shield.
 ```
+
+---
+
+## BLOCK D-X2 — Extreme transformation, "part the fur" reveal at every stage (standalone, no VO)
+
+A revision of D-X. In D-X the skin state appeared to flash from one stage to the next. Here **every stage opens with the fur lying closed over the spot**, and the owner's fingers **press in and push the fur outward** to reveal that day's skin. The viewer watches the same ritual four times and sees the skin get better each time. The stage changes only at the cuts, while the fur is closed, so nothing morphs on screen.
+
+- **Length:** **8s**. Each reveal needs ~1.3s to read; the paw pair takes the last 1.8s. For a 6s version, drop X5–X6 (the paw).
+- **Refs:** @WESTIE, @OWNER, @PATCH (KF-G01). Optional anchors: the severe and full-coat edits from D-X.
+
+```
+SCENE CONTEXT
+Four identical overhead progress shots of a small white terrier's flank: in each one the owner's fingers push the closed fur outward to reveal the same spot, and each reveal shows the skin further healed, from raw and inflamed to healthy skin under a full white coat, followed by his red, licked-raw paw becoming clean and healthy.
+
+ACTIVE REFERENCES
+@WESTIE: 5-year-old male West Highland White Terrier, compact 8 kg body, coarse white coat, lying on his right side with the left flank facing up. 100% matches the reference.
+@PATCH: the exact overhead framing of the owner's two hands at the dog's left flank, just forward of the left hip. 100% matches the reference for framing, hands and location.
+@OWNER: hands and forearms only, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
+
+FORMAT MODE
+Controlled multi-shot sequence, 8 seconds, six shots, HARD CUTS only at 1.6, 2.9, 4.2, 6.2 and 7.1 seconds. No fades, no dissolves, no morphing. X1 to X4 are framed IDENTICALLY, like an owner's daily progress videos: same camera position, framing, hand position and light. Every one of X1 to X4 follows the same reveal action: it OPENS with the fur lying closed and flat over the spot, both fingertips resting on the fur 2 cm apart at frame center; the fingers then press down and slide outward in opposite directions, pushing the fur aside to open a gap and reveal the skin underneath; they hold it open. The skin condition never changes inside a shot, only between shots.
+
+SHOT X1 — 0:00 to 0:01.6 — BEFORE (severe)
+First frame: overhead close-up of @WESTIE's left flank, fur closed and lying flat at frame center, the white fur around it visibly thin, matted and stained dark rust-brown; both @OWNER fingertips resting on it.
+0:00 to 0:00.8 The fingertips press in and push the fur outward to the sides, opening a wide gap.
+0:00.8 to 0:01.6 Hold open: revealed underneath is a raw bald patch about 8 cm wide, angry deep red, swollen at the edges, thick crusty yellow-white scale, crisscrossing scratch tracks, almost no fur. Dry and crusted, no fresh blood, no open wound. The skin twitches once.
+
+SHOT X2 — 0:01.6 to 0:02.9 — DAY 1
+Identical camera, framing, hands and light to X1. Opens with the fur closed and flat over the spot, the stain around it lighter.
+0:01.6 to 0:02.3 The fingertips push the fur outward to the sides.
+0:02.3 to 0:02.9 Hold open: the swelling is gone, the deep red has faded to bright pink, most of the crust is gone, the scratch tracks have softened.
+
+SHOT X3 — 0:02.9 to 0:04.2 — DAY 3
+Identical camera, framing, hands and light to X1. Opens with the fur closed and flat over the spot, the surrounding fur now clean white.
+0:02.9 to 0:03.6 The fingertips push the fur outward to the sides.
+0:03.6 to 0:04.2 Hold open: smooth, even soft-pink skin, no flakes, no crust, no scratch marks, a dense layer of short new white fur growing across the patch.
+
+SHOT X4 — 0:04.2 to 0:06.2 — DAY 5
+Identical camera, framing, hands and light to X1. Opens with a full, thick, bright, healthy white coat lying smoothly over the whole area: the bald patch is gone.
+0:04.2 to 0:05.0 The fingertips push the thick fur outward to the sides; it resists slightly, dense and springy.
+0:05.0 to 0:05.6 Hold open: the skin underneath is healthy, calm, pale pink.
+0:05.6 to 0:06.2 The fingers release, and the full coat springs back and closes smoothly over the spot.
+
+SHOT X5 — 0:06.2 to 0:07.1 — PAW BEFORE
+First frame: close-up of @WESTIE's right front paw resting in @OWNER's open right palm, toes together, the fur on them soaked, matted and stained dark rust-brown.
+0:06.2 to 0:06.6 Her thumb pushes two toes apart.
+0:06.6 to 0:07.1 Hold: the skin between the toes is raw-looking, angry red and swollen, with thinned hair. Dry, no wound.
+Optics for X5 and X6: 29° diagonal field of view, close detail framing, camera 30 cm away.
+
+SHOT X6 — 0:07.1 to 0:08.0 — PAW DAY 5
+Identical framing, hand and light to X5. Opens with the same paw, toes together, the fur now fluffy, clean and bright white.
+0:07.1 to 0:07.5 Her thumb pushes the same two toes apart.
+0:07.5 to 0:08.0 Hold: calm, healthy pale-pink skin between the toes, no staining, no swelling.
+
+OPTICS
+X1 to X4: 29° diagonal field of view, close detail framing, phone 35 cm directly above the coat; the fingertips and the revealed skin razor-sharp.
+
+CAMERA
+Very steady handheld, locked framing, no push-in and no reframing in any shot, so the reveals line up exactly from cut to cut.
+
+PHYSICS
+The fur parts along its growth direction as the fingers slide outward; hairs at the edge of the gap bend, stand up and spring back. The skin moves slightly under finger pressure. The thin, damaged coat in X1 parts easily and stays clumped; the healthy coat in X4 is dense, resists slightly and springs back fully when released.
+
+LIGHTING
+Soft daylight from screen-left, identical in every shot; the fingers cast a soft shadow at screen-right.
+
+AUDIO
+A soft fur rustle on each reveal, a subtle camera-shutter tick on each cut, quiet room tone. No music. No voice. No narration.
+
+POSITIVE CONSTRAINTS
+Real smartphone progress-video realism; true-to-life skin and fur textures. The skin is only ever seen when the fingers open the fur. No subtitles, no day labels, no text, no split screen. No glow, no sparkles, no blood.
+```
