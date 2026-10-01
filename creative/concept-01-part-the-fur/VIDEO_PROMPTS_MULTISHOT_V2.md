@@ -667,3 +667,72 @@ Real smartphone and tripod footage texture. One dog, one cat. The spray never go
 - ⚠ "rare Korean botanicals": "rare" needs support. Safer: "Korean medicinal botanicals".
 - ⚠ "while stock lasts": only use it if stock is genuinely limited.
 - "Officially registered in Korea": fine if it matches the certificate wording.
+
+---
+
+## BLOCK D-X — Extreme transformation test (standalone, no VO)
+
+A standalone test of a **more extreme, faster** version of D3–D7 (the Before → Day 5 skin series plus the paw before/after). Generate as many takes as you like and cut the best one into Block D over 31.6–39.0, or use it as a hook. There's no voiceover; Block D's VO or the music carries it.
+
+- **Length:** generate **6s**, about 1.4s faster than the original 7.4s span. In Block D, lay it over 31.6–37.6 and let the D7 VO line ("Even those licked-raw paws… calm again.") finish over the start of Block E, or trim it.
+- **Refs:** @WESTIE, @OWNER, @PATCH (KF-G01). Optional: @DAY5. For the extreme version, a new edit of KF-G01 with a full, healthy coat works better (see the note at the end).
+- **Claims:** this is an aggressive test. Full fur regrowth in 5 days goes beyond the brief; it's on the compliance cleanup list.
+
+```
+SCENE CONTEXT
+A rapid series of identical overhead progress shots of a small white terrier's flank shows a raw, inflamed bald patch transform into healthy skin and a full white coat over five days, followed by his red, licked-raw paw becoming clean and healthy.
+
+ACTIVE REFERENCES
+@WESTIE: 5-year-old male West Highland White Terrier, compact 8 kg body, coarse white coat, lying on his right side with the left flank facing up. 100% matches the reference.
+@PATCH: the exact overhead framing of the owner's two hands spreading the fur on @WESTIE's left flank, just forward of the left hip. 100% matches the reference for framing, hands and location.
+@OWNER: hands and forearms only, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
+
+FORMAT MODE
+Controlled multi-shot sequence, 6 seconds, six shots, HARD CUTS only at 1.2, 2.0, 2.8, 4.2 and 5.0 seconds. No fades, no dissolves, no morphing between shots. X1 to X4 are framed IDENTICALLY, like an owner's daily progress photos: same camera position, framing, hand pose and light. Only the skin and fur change between them. X5 and X6 are framed identically to each other.
+
+SHOT X1 — 0:00 to 0:01.2 — BEFORE (severe)
+First frame matches @PATCH framing: overhead close-up of the left flank, both hands at the top of frame spreading the fur wide open. At frame center, a large bald patch about 8 cm wide: angry, inflamed deep red skin, visibly swollen and raised at the edges, with thick crusty yellow-white scale and flakes, dense crisscrossing scratch tracks, rough cracked texture, almost no fur left in the patch, and the surrounding white fur matted and stained dark rust-brown from licking. Dry and crusted, no fresh blood, no open wound.
+Optics: 29° diagonal field of view, close detail framing, phone 35 cm above the coat; the patch razor-sharp.
+Camera: very steady handheld, no push-in, no reframing.
+Action: the fingers spread the fur 1 cm further apart; the skin twitches once.
+Light: soft daylight from screen-left.
+
+SHOT X2 — 0:01.2 to 0:02.0 — DAY 1
+Identical camera, framing, hands and light to X1. Already visibly calmer: swelling gone, the deep red faded to bright pink, most of the crust and scale gone, scratch tracks softened.
+Action: the same small finger spread.
+
+SHOT X3 — 0:02.0 to 0:02.8 — DAY 3
+Identical camera, framing, hands and light to X1. Smooth, even soft-pink skin, no flakes, no crust, no scratch marks; a dense layer of short new white fur is already covering the patch; the surrounding fur is clean white with no staining.
+Action: the same small finger spread.
+
+SHOT X4 — 0:02.8 to 0:04.2 — DAY 5
+Identical camera, framing, hands and light to X1. The bald patch is completely gone: a full, thick, clean, bright white coat with healthy shine covers the whole area. Where the fingers part the fur, the skin underneath is healthy pale pink. It looks like a perfectly healthy dog.
+Action: the fingers spread the fur, then smooth it back down, revealing how full and healthy the coat is.
+
+SHOT X5 — 0:04.2 to 0:05.0 — PAW BEFORE
+First frame: close-up of @WESTIE's right front paw resting in @OWNER's open right palm, her thumb spreading two toes. The fur between and on top of the toes is soaked, matted and stained dark rust-brown from constant licking; the skin between the toes is raw-looking, angry red and swollen, with thinned hair. Dry, no wound.
+Optics: 29° diagonal field of view, close detail framing, camera 30 cm away.
+Camera: very steady handheld, no reframing.
+Action: the thumb gently spreads the toes.
+Light: soft daylight from screen-left.
+
+SHOT X6 — 0:05.0 to 0:06.0 — PAW DAY 5
+Identical framing, hand pose and light to X5. The same paw is now completely transformed: fluffy, clean, bright white fur between and on top of the toes, no staining at all, calm healthy pale-pink skin, no swelling.
+Action: the thumb gently spreads the toes; the paw flexes once.
+
+CONTINUITY
+Same dog, same left flank, same hands and gold ring on the right hand in every flank shot. Same paw and palm in X5 and X6. Nothing moves between the identical-framing shots except the skin and fur.
+
+PHYSICS
+Fur parts along its growth direction and springs back; skin moves slightly with finger pressure; the healthy coat in X4 is dense and springy, smoothing down under the hand. Each shot's skin state stays fixed inside the shot. No morphing, no time-lapse growth on screen.
+
+AUDIO
+Soft fur rustle and quiet room tone, with a subtle camera-shutter tick on each cut. No music. No voice. No narration.
+
+POSITIVE CONSTRAINTS
+Real smartphone progress-photo realism; true-to-life skin and fur textures. No subtitles, no day labels, no text, no split screen. No glow, no sparkles, no blood.
+```
+
+**Optional extreme reference images** (edit KF-G01 with your image editor, same framing, to anchor X1 and X4):
+- *X1 severe:* "Edit this image. Keep everything identical. Change ONLY the patch: make it larger, about 8 cm, fully bald, angry deep red and swollen, with thick crusty yellow-white scale, dense crisscross scratch tracks, and dark rust-stained matted fur around it. Dry, no blood."
+- *X4 full coat:* "Edit this image. Keep everything identical. Change ONLY the patch area: it is completely covered by a full, thick, bright white healthy coat identical to the surrounding fur; the skin visible between the parted fingers is healthy pale pink."
