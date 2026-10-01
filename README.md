@@ -11,6 +11,7 @@ Competitive intelligence and production packages for ATOKONG™ Pet Skin Mist (K
 | Still-image prompts (references, keyframes, transformation edits) | `creative/concept-01-part-the-fur/IMAGE_PROMPTS.md` |
 | Video prompts, shot-by-shot with VO per shot (Seedance 2.0 / Higgsfield) | `creative/concept-01-part-the-fur/VIDEO_PROMPTS.md` |
 | **Video prompts, multi-shot: 5 generations for the whole ad** | `creative/concept-01-part-the-fur/VIDEO_PROMPTS_MULTISHOT.md` |
+| **Video prompts, multi-shot V2: aggressive competitor-matched script (pre-compliance)** | `creative/concept-01-part-the-fur/VIDEO_PROMPTS_MULTISHOT_V2.md` |
 | Video prompt-writing system (CINEDANCE V4) | `reference/CINEDANCE_HIGGSFIELD_SKILL.md` |
 
 ## Folder map
