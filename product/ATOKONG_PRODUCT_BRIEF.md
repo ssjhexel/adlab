@@ -104,7 +104,7 @@ Paws, belly, tail, neck folds, underarms and other sensitive/problem areas.
 
 **IMPORTANT APPLICATION:**
 Avoid direct contact with eyes, inside ears and mouth.
-If the pet tends to lick the treated area, use a protective collar for 30 minutes after application.
+~~If the pet tends to lick the treated area, use a protective collar for 30 minutes after application.~~ **Corrected by client: this instruction was wrong. The product is lick-safe; no collar needed.**
 
 **CLAIMED SPEED:**
 Designed to provide rapid itch relief, with visible skin improvement developing over continued use.
@@ -215,7 +215,7 @@ A premium Korean pet skin mist for dogs and cats dealing with itching, dryness, 
 | Rinse | None |
 | Areas | Paws, belly, tail, neck folds, underarms, sensitive/problem areas |
 | Do NOT show | Spraying into eyes, inside ears, into or near the mouth |
-| Licking | If the pet tends to lick, use a protective collar for 30 min after application |
+| Licking | **Lick-safe** (client-confirmed); no collar instruction |
 | Free-from | Steroids, artificial colorants, fragrance |
 | Hero botanicals | *Daphne kiusiana* extract, *Daphne genkwa* (shoot) extract |
 | Experts | Veterinarian (20+ yrs clinical) + researcher (30 yrs immune-cell therapy) |
@@ -229,12 +229,22 @@ A premium Korean pet skin mist for dogs and cats dealing with itching, dryness, 
 
 These need answers or sign-off before the final cut. Each one affects what the ad can say or show.
 
-1. **"Lick-safe" vs. the 30-minute collar instruction.** The brief lists "lick-safe positioning", but the application instructions say to use a collar for 30 minutes if the pet licks. Two competitor ads (C01, C06) show dogs licking the treated area and say "safe even if they lick it". **Recommendation:** do not say "lick-safe" or show licking of a freshly sprayed area until the brand confirms the exact approved wording.
+1. ✅ **RESOLVED — lick-safe confirmed by client; the collar instruction was an error.** ~~"Lick-safe" vs. the 30-minute collar instruction.~~ The brief lists "lick-safe positioning", but the application instructions say to use a collar for 30 minutes if the pet licks. Two competitor ads (C01, C06) show dogs licking the treated area and say "safe even if they lick it". **Recommendation:** do not say "lick-safe" or show licking of a freshly sprayed area until the brand confirms the exact approved wording.
 2. **Timeline for visible improvement.** The concept uses a day-counter transformation (Day 1 → Day 21). Confirm what timeline real customers or brand testing support, and set the counters to match. Until then, treat the counters as placeholders.
 3. **Coat regrowth.** The brief supports "healthier-looking coat". Showing fur visibly filling in is a stronger implied claim. Confirm the brand is comfortable with it. Customer reviews mentioning coat improvement support it, but explicit regrowth language is avoided in the VO.
 4. **Offer.** No offer was supplied. Every competitor ad in the set ends on a bundle offer (Buy 2 Get 1 Free or Buy 2 Get 50% Off, plus free shipping). The end card uses an `[OFFER]` placeholder.
 5. **Target market and spelling.** The brief mixes UK ("odour") and US ("colorants") spelling. VO and supers are written in US English. Switch if the launch market is UK/AU.
-6. **Product reference images.** None are in the repo yet. Front/back/45° packshots of the bottle (and box, if used) are needed to generate or composite product shots. AI generators garble label text, so hero product frames should use the real packshot.
+6. ✅ **Packshot received:** `product/images/atokong_packshot_bottle_box.jpg`. See §4. ~~None are in the repo yet.~~ Front/back/45° packshots of the bottle (and box, if used) are needed to generate or composite product shots. AI generators garble label text, so hero product frames should use the real packshot.
 7. **Botanical origin.** *Daphne kiusiana* grows in southern Korea, including Jeju Island. Do not claim "Jeju-sourced" unless the brand confirms where the extract comes from. "Korean medicinal botanicals" is safe.
 8. **Expert depiction.** The vet and researcher appear as dramatized, unnamed figures (hands, lab coat, no identifiable face). Do not present an AI person as the actual Atokong vet or researcher.
-9. **Words to avoid** (they read as drug/medical claims, or overstate the brief): *heals, cures, treats, infection, eliminates, stops itching instantly, within X seconds, vet-recommended* (unless substantiated), *safe if licked* (see 1), *clinically proven* (unless substantiated).
+9. **Words to avoid** (they read as drug/medical claims, or overstate the brief): *heals, cures, treats, infection, eliminates, stops itching instantly, within X seconds, vet-recommended* (unless substantiated), *clinically proven* (unless substantiated).
+
+---
+
+## 4. Packaging (from client packshot `product/images/atokong_packshot_bottle_box.jpg`)
+
+- **Bottle:** 30 ml, small white round PET bottle (palm-sized, ~10 cm tall incl. pump), white pump-mist nozzle, clear dome overcap.
+- **Label:** white, "ATOKONG" bold black wordmark, black box with "동물용의약외품" (Korean: *veterinary quasi-drug*), orange cartoon dog scratching its neck with a "Stop!" speech bubble, hashtags "# Animal # Dry Skin # Itchy Skin # Resolution", "아토콩 안가렵게 미스트 30 ml".
+- **Box:** tall white carton with orange top band, same illustration plus a red "no" circle over the scratching dog.
+- **Brand colors (sampled from pack):** orange ≈ `#F2A21B`, black, white, accent red ≈ `#E0312B`. Use orange as the caption highlight color.
+- **Creative notes:** the bottle is *small* — keep scale realistic in AI shots (fits in the palm, fingers wrap fully around it). The Korean-script label is itself a visual proof point for the "Korean pet dermatology" story; show it legibly in real/composited hero shots. "동물용의약외품" indicates a Korean regulatory product category — potential trust claim ("registered as a veterinary quasi-drug in Korea"); **confirm with client before using.**

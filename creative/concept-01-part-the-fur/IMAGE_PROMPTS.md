@@ -107,14 +107,14 @@ Daytime, the white West Highland White Terrier lies on a cream wool rug, head lo
 ### KF-G05 — Product pickup (REAL shoot recommended; else composite)
 Refs: REF-OWNER, @ATOKONG
 ```
-Close-up of a woman's right hand (thin gold band on ring finger, oatmeal knit sleeve) lifting a white spray bottle off a sunlit white floating shelf, a small trailing plant at frame left, soft morning sunlight across the shelf. The bottle is a plain blank placeholder to be replaced by the real product in compositing; label area facing camera, flat and evenly lit for tracking.
+Close-up of a woman's right hand (thin gold band on ring finger, oatmeal knit sleeve) lifting a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label off a sunlit white floating shelf, a small trailing plant at frame left, soft morning sunlight across the shelf. The bottle is a plain blank placeholder to be replaced by the real product in compositing; label area facing camera, flat and evenly lit for tracking.
 ```
 + REALISM SUFFIX
 
 ### KF-G06 — Dog sniffs bottle (composite real bottle)
 Refs: REF-WESTIE-2, REF-OWNER, @ATOKONG
 ```
-On a cream wool rug in a bright living room, a woman's right hand (gold band, oatmeal knit sleeve) holds a white spray bottle at the dog's nose height, label facing camera. The white West Highland White Terrier sits facing camera-left, leaning forward to sniff the bottle nozzle, ears forward, curious expression. Camera low, three-quarter angle, 70 cm away. Window daylight from the left.
+On a cream wool rug in a bright living room, a woman's right hand (gold band, oatmeal knit sleeve) holds a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label at the dog's nose height, label facing camera. The white West Highland White Terrier sits facing camera-left, leaning forward to sniff the bottle nozzle, ears forward, curious expression. Camera low, three-quarter angle, 70 cm away. Window daylight from the left.
 ```
 + REALISM SUFFIX · *Replace the bottle with the real packshot in post.*
 
@@ -150,7 +150,7 @@ Side-backlit close-up of a woman's open left palm facing up near a bright window
 ### KF-G11 — Spray demo (also hook H3)
 Refs: KF-G01, REF-OWNER, @ATOKONG
 ```
-Same framing and lighting as KF-G01: overhead close-up of the white Westie's left flank on the cream rug with the irritated Day 1 patch exposed. The woman's left hand spreads the fur open around the patch; her right hand enters from the upper right holding a white spray bottle angled down toward the patch from about 12 cm away, nozzle pointing at the skin, index finger on the pump. The bottle label is turned away from camera.
+Same framing and lighting as KF-G01: overhead close-up of the white Westie's left flank on the cream rug with the irritated Day 1 patch exposed. The woman's left hand spreads the fur open around the patch; her right hand enters from the upper right holding a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label angled down toward the patch from about 12 cm away, nozzle pointing at the skin, index finger on the pump. The bottle label is turned away from camera.
 ```
 + REALISM SUFFIX
 
@@ -164,7 +164,7 @@ Extreme macro of the irritated pink skin patch and surrounding white hair shafts
 ### KF-G13 — Bottle down, dog stands
 Refs: REF-WESTIE-1, REF-OWNER, REF-LIVINGROOM
 ```
-Low angle at rug level in the bright living room: a woman's right hand sets a white spray bottle down upright on the cream rug in the left foreground (label turned away); the white West Highland White Terrier is standing up in the midground facing camera-left toward the sunlit window, body mid-shake with ears flapping and fur fluffing out. Window light from the left.
+Low angle at rug level in the bright living room: a woman's right hand sets a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label down upright on the cream rug in the left foreground (label turned away); the white West Highland White Terrier is standing up in the midground facing camera-left toward the sunlit window, body mid-shake with ears flapping and fur fluffing out. Window light from the left.
 ```
 + REALISM SUFFIX
 
@@ -200,14 +200,14 @@ Same bedroom and camera position as KF-G02, at night in cool moonlight from the 
 ### KF-G19 — Cat spray
 Refs: REF-CAT, REF-OWNER, REF-LIVINGROOM
 ```
-The grey British Shorthair cat sits on the grey linen sofa facing camera-left, eyes half closed in a slow blink. A woman's left hand gently parts the plush grey fur on the right side of the cat's neck behind the jaw; her right hand holds a white spray bottle 15 cm away aimed at the parted fur, pointed away from the cat's face, a fine mist just released. Window daylight from the left. Camera at the cat's eye level, 70 cm away.
+The grey British Shorthair cat sits on the grey linen sofa facing camera-left, eyes half closed in a slow blink. A woman's left hand gently parts the plush grey fur on the right side of the cat's neck behind the jaw; her right hand holds a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label 15 cm away aimed at the parted fur, pointed away from the cat's face, a fine mist just released. Window daylight from the left. Camera at the cat's eye level, 70 cm away.
 ```
 + REALISM SUFFIX
 
 ### KF-G20 — End hero (composite real bottle)
 Refs: REF-WESTIE-2, REF-CAT, REF-BEDROOM-NIGHT (daytime version), @ATOKONG
 ```
-Morning in the same bedroom, now bright with soft daylight through open blinds on the right. The healthy white West Highland White Terrier with a full clean white coat sits upright on the white duvet in the center of the bed, looking toward camera, mouth slightly open, relaxed and bright-eyed. The grey British Shorthair cat lounges on the duvet behind him, slightly out of focus. In the lower-right foreground on the bedside table edge, a white spray bottle stands upright, label facing camera (placeholder for the real product). Leave clean space in the upper third for the end card.
+Morning in the same bedroom, now bright with soft daylight through open blinds on the right. The healthy white West Highland White Terrier with a full clean white coat sits upright on the white duvet in the center of the bed, looking toward camera, mouth slightly open, relaxed and bright-eyed. The grey British Shorthair cat lounges on the duvet behind him, slightly out of focus. In the lower-right foreground on the bedside table edge, a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label stands upright, label facing camera (placeholder for the real product). Leave clean space in the upper third for the end card.
 ```
 + REALISM SUFFIX · *Replace the bottle with the real packshot in post.*
 
@@ -221,7 +221,7 @@ Almost dark bedroom at night. A woman in her early 30s lifts her head off a whit
 ### KF-H4 — K-beauty shelf (REAL shoot recommended)
 Refs: REF-OWNER, @ATOKONG
 ```
-Close-up of a clean white bathroom shelf with an arrangement of minimalist unbranded skincare: glass dropper serum bottles, a frosted toner bottle, a cushion compact, small jars — no readable text or brands. A woman's right hand (gold band) reaches in from the right toward a white spray bottle at the end of the row. Soft morning daylight, calm spa-like mood.
+Close-up of a clean white bathroom shelf with an arrangement of minimalist unbranded skincare: glass dropper serum bottles, a frosted toner bottle, a cushion compact, small jars — no readable text or brands. A woman's right hand (gold band) reaches in from the right toward a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label at the end of the row. Soft morning daylight, calm spa-like mood.
 ```
 + REALISM SUFFIX
 

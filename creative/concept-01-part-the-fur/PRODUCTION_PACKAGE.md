@@ -73,7 +73,7 @@ The owner's pain is helplessness plus sleeplessness. The pet's pain is the itch-
 | VO | Single female voice, early 30s, warm, plain-spoken, first person. ~170 wpm. Human VO artist or a high-quality voice model, with no "announcer" read |
 | Music | Soft, warm, minimal (felt piano / muted guitar / light pulse), ducked about 18 dB under VO. It rises only in the transformation beat (S16–S19) and the end card |
 | SFX (critical for realism) | Collar-tag jingle, nails scratching fur, paw licking, the *tss-tss-tss* of the pump mist, dog exhale/sigh, room tone. Mix SFX hot. The spray sound is a sensory hook |
-| Captions | Burned-in, word-by-word, current word highlighted in the brand accent color (`[BRAND COLOR]`; fallback: soft mint `#7FD8BE` box with dark text). Bold rounded sans, ~64px at 1080w, 2 lines max |
+| Captions | Burned-in, word-by-word, current word highlighted with an ATOKONG-orange `#F2A21B` box and black text (color sampled from the packshot). Bold rounded sans, ~64px at 1080w, 2 lines max |
 | Safe zones (Reels) | Keep captions and key action between ~14% from the top and ~35% from the bottom. Captions sit at ~55–62% of frame height. Hook headline sits in the upper third, below the top 14% |
 | Supers | Small-caps clean sans, white with a 20% black shadow. Never more than 6 words |
 | Disclosure | "AI-generated content" label applied in Meta, plus a "Dramatization. Individual results may vary." super during the transformation (S16–S20) |
@@ -97,6 +97,8 @@ The competitor ads look AI-made mainly in their CG devices and their too-perfect
 
 ---
 
+**Product appearance:** see `product/images/atokong_packshot_bottle_box.jpg` and brief §4. It's a small 30 ml white bottle with an orange cartoon-dog label and Korean text. Keep its real (palm-sized) scale. The Korean label supports the "Korean pet dermatology" story, so let it read in S06, S07 and S24.
+
 ## 5. Full script
 
 **Voice:** first-person owner, intimate, unhurried at the start, quickening slightly through the demo, warm at the end.
@@ -110,7 +112,7 @@ The competitor ads look AI-made mainly in their CG devices and their too-perfect
 | 4 | 8.4–12.0 | So I stopped guessing… and tried Korean pet dermatology. | **[ATOKONG · KOREAN PET DERMATOLOGY]** (from 10.2) |
 | 5 | 12.0–16.6 | Created by a vet with twenty-plus years in clinic… and a thirty-year immune-cell researcher. | **[VET · 20+ YEARS IN CLINIC]** → **[30 YEARS IMMUNE-CELL RESEARCH]** |
 | 6 | 16.6–18.0 | With Korean medicinal botanicals. | **[Daphne kiusiana · Daphne genkwa]** |
-| 7 | 18.0–19.8 | No steroids. No fragrance. | **[NON-STEROIDAL · FRAGRANCE-FREE · NO ARTIFICIAL COLORS]** |
+| 7 | 18.0–19.8 | No steroids. No fragrance. Lick-safe. | **[NON-STEROIDAL · FRAGRANCE-FREE · LICK-SAFE]** |
 | 8 | 19.8–22.4 | Three to five sprays on dry skin. | **[3–5 SPRAYS]** |
 | 9 | 22.4–24.2 | No bath. No rinse. | |
 | 10 | 24.2–25.8 | Nothing to rub in. | |
@@ -146,6 +148,7 @@ Word count ≈ 134 (+ offer) over 47s, about 170 wpm.
 | **S10** | 16.6–18.0 (1.4) | Macro: dense clusters of small white, four-lobed tubular *Daphne kiusiana* flowers among glossy dark-green leaves, morning dew, soft forest light | Macro, slight breeze sway | "With Korean medicinal botanicals." | G09 | AI (or stock) |
 | **S11** | 18.0–19.8 (1.8) | Backlit: the owner sprays the mist onto her open palm. The fine cloud catches window light, droplets bead on skin. Clean, colorless | Handheld, side-backlit | "No steroids. No fragrance." · SFX: single *tss* | G10 | **REAL** (or AI) |
 | **S12** | 19.8–22.4 (2.6) | **Demo:** the same flank. Left hand parts the fur over the patch; the right hand sprays 3 pumps from ~12 cm. The mist cloud drifts down onto the skin | Handheld close-up, 3/4 above | "Three to five sprays on dry skin." · SFX: *tss-tss-tss* (mix hot) | G11 | AI |
+| **S13b** *(optional insert)* | — | 0.8s: the Westie licks his freshly misted paw, no reaction; owner relaxed. Super: **LICK-SAFE** | Low macro | supports VO 7 | G04 variant | AI |
 | **S13** | 22.4–24.2 (1.8) | Macro: fine droplets settle on hair tips and the pink skin, then soak in. No gloss or residue | Macro, locked | "No bath. No rinse." | G12 | AI |
 | **S14** | 24.2–25.8 (1.6) | Owner sets the bottle down on the rug. The Westie stands, gives a short full-body shake and trots two steps toward the sunny window | Low handheld, 1.2 m | "Nothing to rub in." · SFX: shake, tag jingle | G13 | AI |
 | **S15** | 25.8–29.4 (3.6) | **Relief beat:** in a patch of sun on the rug, the Westie lies down, exhales a long sigh (chest falls, nostrils flare), lowers his chin onto his front paws, and his eyes slowly close. Owner's hand strokes his back once | Low static at rug level, 1.5 m, long-lens feel | "And for the first time in weeks… he just lay down." · SFX: long dog sigh, room tone | G14 | AI |
@@ -224,6 +227,12 @@ Each hook replaces **0.0–3.2s** (S01–S02 and VO line 1). From S03 onward the
 - **Gen:** G07 + G08.
 - **Tests:** an authority-first open (brand angle #6). Nothing like it exists in the competitor set.
 
+### H10 — "Lick-Safe"
+- **Visual:** the owner mists the Westie's front paw (Day 1 paw); he licks it straight away; the owner doesn't react.
+- **VO:** "Yes, he licked it. That's fine — it's lick-safe."
+- **Super:** LICK-SAFE. NON-STEROIDAL.
+- **Tests:** turns the biggest safety worry for paw-lickers into the hook. C01/C06 used it as a body claim; none lead with it.
+
 ### H8 — "Non-Steroidal"
 - **Visual:** S01 framing, but the owner's other hand holds the ATOKONG bottle beside the patch. Slight push-in.
 - **VO:** "Looking for a non-steroidal way to care for your dog's itchy skin?"
@@ -263,7 +272,7 @@ Each hook replaces **0.0–3.2s** (S01–S02 and VO line 1). From S03 onward the
 | "non-steroidal", "no fragrance", "no artificial colorants" | "chemical-free" or "100% natural" (ethanol and other synthetics are in the INCI list) |
 | "created by a vet with 20+ years in clinic and a 30-year immune-cell researcher" | "vet-recommended" or "clinically proven" (unless substantiated) |
 | Day counters only with timeline substantiation, labelled *Dramatization* | Instant morphs of skin healing in under 3 seconds |
-| Spray on the flank, belly, paws, or the side of a cat's neck from 10–15 cm | Spraying into eyes, ears or mouth, or toward the face; a dog licking a freshly sprayed area; "lick-safe" (pending brief item 3.1) |
+| Spray on the flank, belly, paws, or the side of a cat's neck from 10–15 cm | Spraying into eyes, ears or mouth, or toward the face |
 | Realistic, clinical-looking irritation | Blood, open wounds, pus, gore (sensational-content rejection risk) |
 | "Dramatization. Individual results may vary." + Meta AI label | Presenting AI people as the real Atokong vet/researcher, or as real customers |
 

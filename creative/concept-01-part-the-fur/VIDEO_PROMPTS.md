@@ -198,11 +198,11 @@ One dog, four legs, natural anatomy. The paw has four visible toes and a dewclaw
 First frame: **KF-G05** · Refs: @OWNER, @ATOKONG · 4s · *AI fallback only. Composite the real label in post.*
 ```
 SCENE CONTEXT
-A woman's hand lifts a white spray bottle off a sunlit shelf.
+A woman's hand lifts a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, off a sunlit shelf.
 
 ACTIVE REFERENCES
 @OWNER: early-30s woman, right hand and forearm only, thin gold band on the ring finger, oatmeal knit sleeve. 100% matches the reference.
-@ATOKONG: white spray bottle, shape and proportions 100% match the reference.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, shape and proportions 100% match the reference.
 
 FIRST FRAME AND SPATIAL BLOCKING
 The first visible frame matches the start image: the bottle stands upright on the white shelf at frame center; the hand is entering from screen-right, fingers about to close around it.
@@ -240,12 +240,12 @@ Bottle shape stays constant. The label area stays flat and evenly lit for compos
 First frame: **KF-G06** · Refs: @WESTIE, @OWNER, @ATOKONG · 4s · *Composite the real bottle in post.*
 ```
 SCENE CONTEXT
-A woman holds a white spray bottle near her dog's nose and he leans in to sniff it.
+A woman holds a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, near her dog's nose and he leans in to sniff it.
 
 ACTIVE REFERENCES
 @WESTIE: 5-year-old male West Highland White Terrier, coarse white coat, brown collar with brass tag, sitting on the rug facing screen-left. 100% matches the reference.
 @OWNER: right hand and forearm only, thin gold band, oatmeal knit sleeve. 100% matches the reference.
-@ATOKONG: white spray bottle, shape 100% matches the reference.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, shape 100% matches the reference.
 
 LOCATION MAP
 Bright living room, cream rug. Camera low at a three-quarter angle, 70 cm from the dog. Window light from screen-left.
@@ -407,7 +407,7 @@ SCENE CONTEXT
 A woman sprays a clear mist onto her open palm next to a bright window, and the fine droplets catch the light.
 
 ACTIVE REFERENCES
-@OWNER: early-30s woman, left hand open palm-up and right hand holding a white spray bottle entering from screen-right, oatmeal knit sleeves. 100% matches the reference.
+@OWNER: early-30s woman, left hand open palm-up and right hand holding a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label entering from screen-right, oatmeal knit sleeves. 100% matches the reference.
 
 FIRST FRAME AND SPATIAL BLOCKING
 The first visible frame matches the start image: the open left palm at frame center, the bright window behind it; the nozzle of the spray bottle at the right edge of frame, 15 cm from the palm.
@@ -450,7 +450,7 @@ The woman holds her dog's fur open over the irritated patch on his flank and spr
 ACTIVE REFERENCES
 @WESTIE: 5-year-old male West Highland White Terrier, coarse white coat, lying on his right side with the irritated patch on the left flank facing up. 100% matches the reference.
 @OWNER: left hand spreading the fur around the patch, right hand holding the spray bottle, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
-@ATOKONG: white spray bottle, shape 100% matches the reference, label turned away from camera.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, shape 100% matches the reference, label turned away from camera.
 
 LOCATION MAP
 Living-room floor. Camera above and slightly behind the dog's back at a three-quarter overhead angle. Cream rug at the frame edges. Window light from screen-left.
@@ -537,7 +537,7 @@ The woman sets the spray bottle down on the rug as her dog stands, shakes out hi
 ACTIVE REFERENCES
 @WESTIE: 5-year-old male West Highland White Terrier, coarse white coat, brown collar with brass tag. 100% matches the reference.
 @OWNER: right hand and forearm only, thin gold band, oatmeal knit sleeve. 100% matches the reference.
-@ATOKONG: white spray bottle, shape 100% matches the reference, label turned away from camera.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, shape 100% matches the reference, label turned away from camera.
 
 LOCATION MAP
 Bright living room. Camera at rug level. Foreground screen-left: the bottle being set down on the cream rug. Midground center: @WESTIE standing. Window at screen-left beyond the frame edge, light coming from screen-left.
@@ -803,7 +803,7 @@ On the sofa, the owner parts the fur at the side of her grey cat's neck and give
 ACTIVE REFERENCES
 @CAT: 4-year-old grey British Shorthair, dense plush blue-grey coat, round copper eyes, sitting on a grey linen sofa facing screen-left. 100% matches the reference.
 @OWNER: left hand parting the fur on the right side of the cat's neck behind the jaw, right hand holding the spray bottle, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
-@ATOKONG: white spray bottle, shape 100% matches the reference, label turned away from camera.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label, shape 100% matches the reference, label turned away from camera.
 
 FIRST FRAME AND SPATIAL BLOCKING
 The first visible frame matches the start image: @CAT at frame center facing screen-left; the left hand already parting the fur at the side of the neck; the bottle 15 cm from the neck at screen-right, aimed at the parted fur and away from the face. No empty frame.
@@ -841,12 +841,12 @@ The spray never goes toward the cat's eyes, ears or mouth. The cat stays calm an
 First frame: **KF-G20** · Refs: @WESTIE, @CAT, @ATOKONG · 5s · *Composite the real bottle in post. The end card overlays from 43.0s.*
 ```
 SCENE CONTEXT
-On a bright morning bed, the healthy white terrier sits happily looking at camera while the grey cat lounges behind him, with a white spray bottle on the bedside table in the foreground.
+On a bright morning bed, the healthy white terrier sits happily looking at camera while the grey cat lounges behind him, with a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label on the bedside table in the foreground.
 
 ACTIVE REFERENCES
 @WESTIE: 5-year-old male West Highland White Terrier, full clean white coat, brown collar with brass tag, sitting upright on a white duvet, looking at camera, mouth slightly open. 100% matches the reference.
 @CAT: 4-year-old grey British Shorthair lying on the duvet behind the dog. 100% matches the reference.
-@ATOKONG: white spray bottle standing upright on the bedside table edge in the lower-right foreground, label facing camera, shape 100% matches the reference.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label standing upright on the bedside table edge in the lower-right foreground, label facing camera, shape 100% matches the reference.
 
 LOCATION MAP
 Bedroom in morning daylight. Camera at the dog's eye level, 1.8 meters from the bed. Window with open blinds on screen-right. Bed with white duvet fills the middle of frame. The bedside table edge occupies the lower-right foreground.
@@ -925,11 +925,11 @@ One person. Her face stays mostly in shadow except for the phone glow. Real low-
 First frame: **KF-H4** · Refs: @OWNER, @ATOKONG · 4s
 ```
 SCENE CONTEXT
-A woman's hand passes along a shelf of minimalist skincare bottles and picks up a white spray bottle at the end of the row.
+A woman's hand passes along a shelf of minimalist skincare bottles and picks up a small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label at the end of the row.
 
 ACTIVE REFERENCES
 @OWNER: right hand only, thin gold band, oatmeal knit sleeve. 100% matches the reference.
-@ATOKONG: white spray bottle at the right end of the row, shape 100% matches the reference.
+@ATOKONG: small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label at the right end of the row, shape 100% matches the reference.
 
 FIRST FRAME AND SPATIAL BLOCKING
 The first visible frame matches the start image: a row of unbranded glass skincare bottles and jars on a white shelf filling the frame from left to right; the hand entering from screen-right.
@@ -945,7 +945,7 @@ Handheld, operator breath, gentle slide right-to-left following the hand, then s
 
 ACTION TIMING
 0:00 to 0:02 The fingers glide past the serum bottles without touching them.
-0:02 to 0:03 The hand closes around the white spray bottle.
+0:02 to 0:03 The hand closes around the small 30 ml white round spray bottle (about 10 cm tall) with a white pump nozzle and clear dome cap, orange cartoon-dog label.
 0:03 to 0:04 The hand lifts it off the shelf toward camera.
 
 PHYSICS

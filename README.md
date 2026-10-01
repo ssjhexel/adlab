@@ -30,4 +30,4 @@ Competitor IDs (C01–C12) follow the sorted filename order in `competitor_ads/`
 9:16 · 1080×1920 · hyper-real, phone-footage look (not an "AI look") · labelled as AI-generated in Meta.
 
 ## Before the final edit
-See `product/ATOKONG_PRODUCT_BRIEF.md` §3. Still needed from the client: product packshots, the offer, sign-off on the transformation timeline and coat-regrowth claim, approved "lick-safe" wording, and the launch market.
+See `product/ATOKONG_PRODUCT_BRIEF.md` §3. Still needed from the client: the offer, sign-off on the transformation timeline and coat-regrowth claim, and the launch market. (Packshot received; lick-safe confirmed.)
