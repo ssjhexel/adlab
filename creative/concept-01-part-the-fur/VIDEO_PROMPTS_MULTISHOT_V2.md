@@ -11,9 +11,9 @@
 | Product promise | "…and tried Korean pet dermatology." | "The Korean mist that stops the itch fast." | Benefit + speed (C07/C08 "fast soothing care") |
 | Proof | — | "Officially registered in Korea." | Authority the competitor doesn't have |
 | Safety | "No steroids. No fragrance. Lick-safe." | "No steroids. Totally lick-safe." | C01/C06 "safe even if they lick" |
-| Mechanism | "…soothing the skin and supporting its natural barrier." | "It soaks in, calms the itch, and repairs the skin barrier." ⚠ | C06 "calms inflammation at the source… rebuilds the skin barrier" |
-| Relief | "From the very first spray…" | "Seconds after the first spray… he finally stopped scratching." ⚠ | C07/C08 "in just 8 seconds" |
-| Result | "…his skin looked like his again." | "In just five days… the redness faded… the flaking stopped… and his skin healed." ⚠ | C01 "recovers within a week", C06 "in just days" |
+| Demo + mechanism | "Three to five sprays on dry skin." / "…supporting its natural barrier." | "Three sprays… and the itch is gone." / "Soaks in instantly. Calms the itch. Rebuilds damaged skin." ⚠ | C06 "calms inflammation at the source… rebuilds the skin barrier" |
+| Relief | "No bath. No rinse. Nothing to rub in." + "From the very first spray…" | "Instant, cooling relief." + "Seconds later… he finally stopped scratching." ⚠ | C06 "it cools the inflamed skin", C07/C08 "in just 8 seconds" |
+| Result | "…his skin looked like his again." | "Day one… redness calming. the redness faded… the flaking stopped… and his skin healed." ⚠ | C01 "recovers within a week", C06 "in just days" |
 | Payoff | "Less scratching. Less licking." | "No more scratching. No more licking." ⚠ | C06 "the constant licking stops" |
 | CTA | "Scratch less, lick less, live more. Tap below…" | "Every pet owner needs one. Tap below… on sale today, while stock lasts." | C07 "Every pet owner should have one", C01 "Stock is limited" |
 
@@ -207,7 +207,7 @@ Light: soft window daylight from screen-left.
 | B3 | 4.0–5.8 | 16.0–17.8 | "Officially registered in Korea." · Super: REGISTERED VETERINARY QUASI-DRUG · KOREA + 0.8s real certificate insert in the edit |
 | B4 | 5.8–7.2 | 17.8–19.2 | "Powered by rare Korean botanicals." |
 | B5 | 7.2–9.0 | 19.2–21.0 | "No steroids. Totally lick-safe." |
-| B6 | 9.0–12.0 | 21.0–24.0 | "Just spray three to five times, right on the itchy spot." → leads straight into Block C |
+| B6 | 9.0–12.0 | 21.0–24.0 | "Three sprays… and the itch is gone." → leads straight into Block C |
 
 Generate exactly 12s and use all of it.
 
@@ -283,7 +283,7 @@ NARRATOR VOICE (identical in every line): one off-screen female narrator, early 
 0:04.3 to 0:05.7 "Officially registered in Korea."
 0:05.9 to 0:07.2 "Powered by rare Korean botanicals."
 0:07.3 to 0:09.0 "No steroids. Totally lick-safe."
-0:09.3 to 0:11.6 "Just spray three to five times, right on the itchy spot."
+0:09.3 to 0:11.6 "Three sprays… and the itch is gone."
 Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
@@ -294,7 +294,7 @@ Real documentary and smartphone texture; the lab is a real working lab, not futu
 
 ## BLOCK C — Macro science dive (24.0–27.0) · generated on its own
 
-**VO:** 24.0–27.0 "It soaks in, calms the itch, and repairs the skin barrier." · Super: *Visualization*
+**VO:** 24.0–27.0 "Soaks in instantly. Calms the itch. Rebuilds damaged skin." · Super: *Visualization*
 First frame **KF-G12** · last frame **KF-G12-SCI-END** · 3s exactly. It cuts in directly after B6's push-in toward a droplet.
 
 ```
@@ -327,7 +327,7 @@ A soft low ambient tone and a faint wet seep. No music.
 
 VOICEOVER
 NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
-0:00.1 to 0:02.9 "It soaks in, calms the itch, and repairs the skin barrier."
+0:00.1 to 0:02.9 "Soaks in instantly. Calms the itch. Rebuilds damaged skin."
 Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
@@ -341,13 +341,13 @@ Photoreal scientific micro-photography in every frame. No neon, no glowing parti
 
 | Shot | Block time | Ad time | VO / super (supers added in post) |
 |---|---|---|---|
-| D1 | 0:00–1.4 | 27.0–28.4 | "No bath. No rinse. No mess." |
-| D2 | 1.4–4.6 | 28.4–31.6 | "Seconds after the first spray… he finally stopped scratching." |
-| D3 | 4.6–5.6 | 31.6–32.6 | "In just five days…" · super **BEFORE** |
-| D4 | 5.6–6.8 | 32.6–33.8 | "…the redness faded…" · super **DAY 1** |
-| D5 | 6.8–8.0 | 33.8–35.0 | "…the flaking stopped…" · super **DAY 3** |
-| D6 | 8.0–9.8 | 35.0–36.8 | "…and his skin healed." · super **DAY 5** + *Dramatization. Individual results may vary.* |
-| D7 | 9.8–12.0 | 36.8–39.0 | "Even his paws." · supers **BEFORE / DAY 5** |
+| D1 | 0:00–1.4 | 27.0–28.4 | "Instant, cooling relief." |
+| D2 | 1.4–4.6 | 28.4–31.6 | "Seconds later… he finally stopped scratching." |
+| D3 | 4.6–5.6 | 31.6–32.6 | "Day one… redness calming." · super **BEFORE** |
+| D4 | 5.6–6.8 | 32.6–33.8 | "Day three… flakes gone." · super **DAY 1** |
+| D5 | 6.8–8.0 | 33.8–35.0 | "Day five…" · super **DAY 3** |
+| D6 | 8.0–9.8 | 35.0–36.8 | "…brand-new, healthy skin." · super **DAY 5** + *Dramatization. Individual results may vary.* |
+| D7 | 9.8–12.0 | 36.8–39.0 | "Even those licked-raw paws… calm again." · supers **BEFORE / DAY 5** |
 
 Generate exactly 12s and use all of it.
 
@@ -416,13 +416,13 @@ Natural foley only: bottle tap on the rug, shake flap and tag jingle (D1); a lon
 
 VOICEOVER
 NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
-0:00.0 to 0:01.4 "No bath. No rinse. No mess."
-0:01.6 to 0:04.4 "Seconds after the first spray… he finally stopped scratching."
-0:04.7 to 0:05.5 "In just five days…"
-0:05.7 to 0:06.7 "…the redness faded…"
-0:06.9 to 0:07.9 "…the flaking stopped…"
-0:08.1 to 0:09.7 "…and his skin healed."
-0:10.0 to 0:10.9 "Even his paws."
+0:00.0 to 0:01.4 "Instant, cooling relief."
+0:01.6 to 0:04.4 "Seconds later… he finally stopped scratching."
+0:04.7 to 0:05.5 "Day one… redness calming."
+0:05.7 to 0:06.7 "Day three… flakes gone."
+0:06.9 to 0:07.9 "Day five…"
+0:08.1 to 0:09.7 "…brand-new, healthy skin."
+0:10.0 to 0:11.8 "Even those licked-raw paws… calm again."
 Voice sits clearly on top; foley ducks under the voice.
 
 POSITIVE CONSTRAINTS
@@ -519,8 +519,8 @@ Real smartphone and tripod footage texture. One dog, one cat. The spray never go
 
 ## Compliance cleanup list (for the next pass)
 - ⚠ "stops the itch fast" / "Seconds after the first spray… finally stopped scratching": speed claims; keep only if backed by customer data. Safer: "From the very first spray…"
-- ⚠ "repairs the skin barrier": drug-type claim. Safer: "supports the skin barrier".
-- ⚠ "his skin healed" / "In just five days": healing and timeline claims. Safer: "his skin looked healthy again", with a dramatization super.
+- ⚠ "Rebuilds damaged skin" / "the itch is gone" / "Instant, cooling relief": drug-type and absolute claims. Safer: "supports the skin barrier", "soothes the itch".
+- ⚠ "brand-new, healthy skin" in five days: a transformation claim. Keep the dramatization super.
 - ⚠ "No more scratching. No more licking.": absolute. Safer: "Less scratching. Less licking."
 - ⚠ "rare Korean botanicals": "rare" needs support. Safer: "Korean medicinal botanicals".
 - ⚠ "while stock lasts": only use it if stock is genuinely limited.
