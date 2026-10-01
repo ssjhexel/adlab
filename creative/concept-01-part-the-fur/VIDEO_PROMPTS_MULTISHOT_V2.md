@@ -336,6 +336,51 @@ POSITIVE CONSTRAINTS
 Real smartphone footage texture, natural unretouched detail. No subtitles, no on-screen text, no glow effects. One dog, one or two hands only.
 ```
 *With H6, shorten A4 in Block A to a reaction close-up (or reuse A4 as is) so the paw licking doesn't repeat back to back.*
+
+### H6-GR — Not just a habit (Golden Retriever variant)
+Refs: @GOLDEN (REF-GOLDEN) · first frame **KF-H6-GR** · **4s** (use 0.0–3.2 over Block A's A1)
+🎙 VO: "Your dog licking his paws nonstop? It's not a habit."
+Tests the **dog breed** at the hook against the Westie H6, with the same action, framing and VO. Golden Retrievers are the most-used breed in the competitor ads and the most widely owned "allergy dog". The body stays on the Westie; viewers read it as "another dog", which matches the competitor's multi-breed approach.
+```
+SCENE CONTEXT
+At rug level, a golden retriever obsessively licks and chews between the toes of his red, stained front paw.
+
+ACTIVE REFERENCES
+@GOLDEN: 4-year-old male Golden Retriever, about 32 kg, medium-gold wavy coat with lighter feathering on the legs and chest, dark brown eyes, black nose, worn green nylon collar. Rust-red saliva staining on the light fur of his right front paw. 100% matches the reference.
+
+FIRST FRAME AND SPATIAL BLOCKING
+Extreme close-up at rug level: @GOLDEN lying on a light grey rug, head lowered at frame center-top, tongue between the toes of his right front paw at frame center-bottom; the light gold toe fur is matted and stained rust-red, and the skin between the toes is pink, irritated and slightly swollen. The first visible frame already contains the dog in position. No empty establishing frame, no delayed reveal.
+
+FORMAT MODE
+Single continuous take, 4 seconds. Real-time motion.
+
+OPTICS
+29° diagonal field of view, close detail framing, camera 60 cm away. Paw, tongue and muzzle razor-sharp, background soft.
+
+CAMERA
+Handheld at floor level, operator breath, slow push-in toward the paw.
+
+ACTION TIMING
+0:00 to 0:02 Long, repetitive tongue strokes between the toes, eyes half closed and focused.
+0:02 to 0:03 He chews at the base of the toes with his front teeth, pulling the paw toward his mouth.
+0:03 to 0:04 Back to licking, faster and more frantic.
+
+PHYSICS
+A large, wet, flexible tongue leaves the toe fur soaked and clumped; the heavy paw shifts with each pull; the head moves with real weight; the ear flops with the motion.
+
+LIGHTING
+Soft window daylight from screen-left, gentle warm tone on the gold coat, natural shadow under the muzzle.
+
+AUDIO
+Loud wet licking and chewing sounds, quiet room tone. No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.2 to 0:03.0 "Your dog licking his paws nonstop? It's not a habit."
+Voice sits clearly on top; foley ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Real smartphone footage texture, natural unretouched fur. One dog, four toes plus dewclaw, natural anatomy. No subtitles, no on-screen text, no glow effects. No blood, no open wound.
+```
 ---
 
 ## BLOCK B — Authority + Demo (12.0–24.0)

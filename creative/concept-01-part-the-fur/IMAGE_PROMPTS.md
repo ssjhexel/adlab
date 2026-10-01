@@ -61,6 +61,12 @@ A 4-year-old grey British Shorthair cat with dense plush blue-grey coat, round c
 ```
 + REALISM SUFFIX
 
+### REF-GOLDEN — Golden Retriever identity (hook H6-GR test)
+```
+Full-body left side view of a 4-year-old male Golden Retriever lying relaxed on a light grey rug in a bright living room, head up and turned slightly toward camera. About 32 kg, medium-gold wavy coat with lighter cream feathering on the legs, chest and tail, dark brown eyes, black nose, soft folded ears, a worn green nylon collar. Natural, slightly unbrushed family-dog coat. Soft daylight from a large window camera-left. Camera at the dog's shoulder height, 1.5 meters away.
+```
++ REALISM SUFFIX
+
 ### REF-ATOKONG — Product
 **Do not generate.** Use the client's real packshots (front, 45°, back) on a plain background. Upload as `@ATOKONG`. See PRODUCTION_PACKAGE §4 rule 7.
 
@@ -233,6 +239,13 @@ Morning in the same bedroom, now bright with soft daylight through open blinds o
 Refs: REF-BEDROOM-NIGHT
 ```
 Almost dark bedroom at night. A woman in her early 30s lifts her head off a white pillow, face lit only from below by the cold glow of a phone screen in her hand, squinting, tired, hair messy, looking toward the foot of the bed (camera-right). The rest of the room falls into deep blue darkness, faint stripes of moonlight from the blinds. Very low-light phone image, visible noise.
+```
++ REALISM SUFFIX
+
+### KF-H6-GR — Golden Retriever paw licking (hook H6-GR)
+Refs: REF-GOLDEN
+```
+Extreme close-up at rug level: a 4-year-old Golden Retriever lies on a light grey rug, head lowered, licking between the toes of his right front paw, tongue visible, eyes half closed in concentration. The light gold fur on and between his toes is wet, matted and stained rust-red from constant licking; the skin between the toes is pink, irritated and slightly swollen, with thinned hair. Dry, no wound, no blood. Soft window daylight from the left, warm tone on the gold coat. Camera 60 cm away at rug level, three-quarter front view, paw at frame center-bottom.
 ```
 + REALISM SUFFIX
 
