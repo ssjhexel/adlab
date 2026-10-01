@@ -858,7 +858,7 @@ LIGHTING
 Cinematic volumetric lighting: a cool blue rim from above, a warm amber glow from the formula and the shield, subsurface scattering in the translucent skin layers, soft bloom only on the shield and the activated cells. Rich contrast, deep blacks.
 
 STYLE
-Ultra-high-end pharmaceutical and skincare commercial CGI, photoreal materials, Octane or Unreal Engine 5 render quality, 8-bit-free smooth gradients, film-grade detail. Color palette: pearl pink, deep navy, amber-gold accents matching ATOKONG orange.
+Ultra-high-end pharmaceutical and skincare commercial CGI, photoreal materials, Octane or Unreal Engine 5 render quality, banding-free smooth gradients, film-grade detail. Color palette: pearl pink, deep navy, amber-gold accents matching ATOKONG orange.
 
 AUDIO
 A deep cinematic whoosh as the droplets sink, a soft rising shimmer as the cells activate, light crystalline taps as particles bounce off the shield. No music.
