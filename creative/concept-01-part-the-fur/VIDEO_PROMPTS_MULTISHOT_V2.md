@@ -736,3 +736,84 @@ Real smartphone progress-photo realism; true-to-life skin and fur textures. No s
 **Optional extreme reference images** (edit KF-G01 with your image editor, same framing, to anchor X1 and X4):
 - *X1 severe:* "Edit this image. Keep everything identical. Change ONLY the patch: make it larger, about 8 cm, fully bald, angry deep red and swollen, with thick crusty yellow-white scale, dense crisscross scratch tracks, and dark rust-stained matted fur around it. Dry, no blood."
 - *X4 full coat:* "Edit this image. Keep everything identical. Change ONLY the patch area: it is completely covered by a full, thick, bright white healthy coat identical to the surrounding fur; the skin visible between the parted fingers is healthy pale pink."
+
+---
+
+## BLOCK I — Skin-immunity insert (10s, optional, with VO)
+
+Sells the second differentiator: **ATOKONG doesn't just soothe, it boosts the skin's own immunity**, backed by the 30-year immune-cell research. It also answers the competitor's "topicals only mask surface symptoms" line (C02).
+
+**Where it goes:** straight after **Block C** (the science dive), at 27.0s. Blocks D and E shift +10s, and the ad becomes **60.0s**. For a 50s version, drop Block B's B4 and B5 (botanicals + palm, 3.6s) and trim D-X in place of D3–D7.
+
+**Refs:** @WESTIE, @OWNER, @RESEARCHER · **10s**
+
+| Shot | Block time | Ad time (if inserted) | VO |
+|---|---|---|---|
+| I1 | 0:00–2.4 | 27.0–29.4 | "Most itch sprays only numb the surface for a few hours." |
+| I2 | 2.4–5.4 | 29.4–32.4 | "Atokong is different. It boosts your dog's skin immunity…" |
+| I3 | 5.4–8.0 | 32.4–35.0 | "…so his skin can fight back against the next flare-up." |
+| I4 | 8.0–10.0 | 35.0–37.0 | "Not just relief. Lasting protection." |
+
+Suggested supers (post): I2 **SKIN-IMMUNITY FORMULA** · I3 **30 YEARS OF IMMUNE-CELL RESEARCH** · I4 **RELIEF + PROTECTION**.
+
+```
+SCENE CONTEXT
+A dog owner gives up on the generic itch sprays that never lasted, a Korean researcher studies skin-immunity cells under a microscope, water beads off a dog's healthy, protected skin, and the terrier rolls carefree in pollen-filled grass without scratching.
+
+ACTIVE REFERENCES
+@WESTIE: 5-year-old male West Highland White Terrier, compact 8 kg body, clean white coat, brown leather collar with a small round brass tag. 100% matches the reference.
+@OWNER: hands and forearms only, thin gold band on the right ring finger, oatmeal knit sleeves. 100% matches the reference.
+@RESEARCHER: Korean veterinary researcher in her early 50s, black hair tied back with a few grey strands, thin reading glasses, white lab coat over navy scrubs. 100% matches the reference.
+
+FORMAT MODE
+Controlled multi-shot sequence, 10 seconds, four shots, HARD CUTS only at 2.4, 5.4 and 8.0 seconds. No fades, no dissolves, no transition effects. Every shot opens with its subject already in frame.
+
+SHOT I1 — 0:00 to 0:02.4 — THE SPRAYS THAT DIDN'T LAST
+First frame: top-down view into an open bathroom drawer crammed with half-used, unbranded pet sprays, ointment tubes and shampoo bottles with plain blank labels; @OWNER's right hand holding one more plain unbranded spray bottle above the drawer.
+Optics: 47° diagonal field of view, standard normal lens character, camera 60 cm above the drawer.
+Camera: handheld, operator breath, fixed framing.
+Action: she drops the bottle into the drawer, where it clatters onto the others, and pushes the drawer shut with the heel of her hand.
+Light: flat, slightly cool bathroom light from above.
+
+SHOT I2 — 0:02.4 to 0:05.4 — SKIN-IMMUNITY RESEARCH
+First frame: a bright Seoul research lab; @RESEARCHER seated at a laboratory microscope at screen-right in three-quarter view facing screen-left; beside her a monitor shows a real fluorescence microscopy image of skin cells, cell nuclei in blue and cell membranes in green, like a real lab capture.
+Optics: 29° diagonal field of view, short telephoto portrait character, camera 2 meters away at seated eye level; her face sharp, background soft.
+Camera: handheld documentary drift toward the monitor.
+Action: she looks from the eyepieces to the monitor and points with a pen at a cluster of cells on screen, focused and calm. She does not look at the camera.
+Light: soft window daylight from screen-left; the monitor adds a faint cool glow on her face.
+
+SHOT I3 — 0:05.4 to 0:08.0 — PROTECTED SKIN
+First frame: extreme macro of healthy, calm pale-pink dog skin between parted white fur, @OWNER's fingertips holding the fur open at the top of frame; fine water droplets are falling onto the skin from above.
+Optics: 18° diagonal field of view, telephoto macro, razor-thin focus on the skin surface.
+Camera: locked off. Half-speed slow motion.
+Action: water droplets land on the skin and bead up into tight round beads that roll off the surface, leaving it dry and intact, showing a healthy, protected barrier.
+Light: soft daylight from screen-left; bright specular highlights in the beads.
+
+SHOT I4 — 0:08.0 to 0:10.0 — CAREFREE IN ALLERGY SEASON
+First frame: sunlit meadow in late afternoon, tall grass and wildflowers; @WESTIE already lying on his back in the grass at frame center, wriggling happily, paws in the air; golden pollen and seed fluff drifting in the backlit air.
+Optics: 18° diagonal field of view, classic telephoto lens character, camera at grass level 5 meters away; background compressed into a soft golden wash; razor focus on the dog; close framing achieved through lens reach.
+Camera: handheld at grass level, slight tracking.
+Action: he rolls happily side to side in the grass, then flips onto his belly, shakes his head and trots toward camera. He never scratches.
+Light: low golden sun behind him, a bright rim on his white coat, pollen glowing only from backlight.
+
+CONTINUITY
+Same @WESTIE (collar and tag) as the rest of the ad. Same owner's hands and ring. Same researcher as Block B.
+
+PHYSICS
+Bottles have real weight and clatter as they land. Water beads have real surface tension and roll off with gravity. Grass bends under the dog's weight; pollen drifts slowly with the breeze.
+
+AUDIO
+Natural foley: bottles clattering and the drawer thudding shut (I1); quiet lab hum (I2); soft water patter (I3); grass rustle, a happy snort and a tag jingle, birds (I4). No music.
+VOICEOVER
+NARRATOR VOICE (identical in every line): one off-screen female narrator, early 30s, natural American English, warm and conversational, like a real dog owner telling a close friend what finally worked. Not an announcer, not salesy, no radio voice. Close, intimate microphone, clean and dry with light room tone, soft natural breaths. Brisk and punchy, about 190 words per minute, with short pauses only at each ellipsis; real emotion: frustrated on the problem lines, relieved and excited on the results, confident on the call to action. Nobody on screen speaks and there is no lip movement. Only the quoted lines are spoken, with no extra words or ad-libs.
+0:00.1 to 0:02.3 "Most itch sprays only numb the surface for a few hours."
+0:02.5 to 0:05.3 "Atokong is different. It boosts your dog's skin immunity…"
+0:05.5 to 0:07.9 "…so his skin can fight back against the next flare-up."
+0:08.1 to 0:09.9 "Not just relief. Lasting protection."
+Voice sits clearly on top; foley ducks under the voice.
+
+POSITIVE CONSTRAINTS
+Real smartphone and documentary texture. No real or readable competitor brands on any bottle. The microscopy image looks like a real lab capture, not a 3D render. No subtitles, no on-screen text, no glow effects, no sparkles.
+```
+
+**Compliance (later pass):** "boosts skin immunity" and "lasting protection" are strong functional claims, and "most itch sprays only numb the surface" is a comparative claim. Tie the wording to what PITEN's skin-immunity research actually supports, for example "formulated with skin-immunity ingredients from 30 years of immune-cell research".
